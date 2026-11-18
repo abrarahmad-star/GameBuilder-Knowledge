@@ -3,6 +3,13 @@
 Built from 1 project(s): tool-testing-6e7a.
 
 ## Lessons (most often seen first)
+- Templates from knowledge put the green atlas-1_29 on every button; check each button's colour against the mockup: blue = atlas-2_48, yellow big = atlas-2_53, lime big = atlas-2_54, yellow small = atlas-1_31, green wide with price = atlas-1_30.
+- The settings sliders and quality picker come from atlas-2: track atlas-2_24, fill atlas-2_25, picker bg atlas-2_26, toggle off atlas-2_36, toggle on atlas-2_30 (Medium starts on, its label dark #2B3A55).
+- The plain coin box (no "+") is the black bar inside atlas-1_0; it was added as its own overlapping sprite atlas-1_52 so the HUD's atlas-1_0 (box + plus) stays whole. Splitting atlas-1_0 would break the HUD.
+- Shop labels come fused in one cut: "+10+500" (atlas-1_3, split at 110), "$12.99 $6.99 $0.99" (atlas-1_14), "+1100 +2750" (atlas-1_37), "+100 +500 +100" (atlas-1_40), "TOP VALUE / BEST SELLER" (atlas-1_35); "$ 3" sat on top of "REMOVE" in atlas-1_43 (split horizontally, then merged with ".99" and "ADS"). "MINI"+"PACK" and "NEW"+"ITEM" are merged word pieces.
+- Locked environment cards get a dark shade: atlas-1_23 (black gradient that fades to transparent at the bottom).
+- The HUD needs showOnStart: true; the env button opens env-selc, the cash "+" opens shop, everything else in these screens is "none" (game logic) or closes by its back/close id.
+- Screens drawn over the live game (eliminated, revive) top out around 75-90% match because the mockup's 3D scene is not UI; don't chase that score.
 - Panel "BuyPanelBG" (512×492) was used on: BuyPanelRef.
 - Panel "no internet" (905×566) was used on: no internet.
 - Panel "panel props" (614×634) was used on: BuyPanelRef.
