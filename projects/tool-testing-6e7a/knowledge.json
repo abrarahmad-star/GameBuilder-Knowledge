@@ -2,8 +2,8 @@
   "schema": 1,
   "project": "Tool Testing",
   "id": "tool-testing-6e7a",
-  "updated": "2026-11-18T10:33:12.9323860Z",
-  "uiBuilder": "0.13.0",
+  "updated": "2026-11-18T10:37:12.7785125Z",
+  "uiBuilder": "0.14.0",
   "built": "",
   "projects": [],
   "sprites": [
@@ -145,7 +145,7 @@
     {
       "hash": "800a451a50505500",
       "name": "atlas-1_9",
-      "role": "",
+      "role": "image",
       "atlas": "atlas-1",
       "w": 111,
       "h": 51,
@@ -175,7 +175,7 @@
     {
       "hash": "802c459250d05500",
       "name": "atlas-1_11",
-      "role": "",
+      "role": "image",
       "atlas": "atlas-1",
       "w": 109,
       "h": 50,
@@ -460,7 +460,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-1_30",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-1",
       "w": 358,
       "h": 117,
@@ -475,7 +475,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-1_31",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-1",
       "w": 289,
       "h": 85,
@@ -625,7 +625,7 @@
     {
       "hash": "0081c16363232140",
       "name": "atlas-1_41",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-1",
       "w": 100,
       "h": 38,
@@ -640,7 +640,7 @@
     {
       "hash": "4804b51919595529",
       "name": "atlas-1_42",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-1",
       "w": 99,
       "h": 39,
@@ -1015,7 +1015,7 @@
     {
       "hash": "4200851511118340",
       "name": "atlas-2_15",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 126,
       "h": 56,
@@ -1030,7 +1030,7 @@
     {
       "hash": "1300686969690904",
       "name": "atlas-2_16",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 140,
       "h": 56,
@@ -1075,7 +1075,7 @@
     {
       "hash": "206898587d492a08",
       "name": "atlas-2_19",
-      "role": "",
+      "role": "image",
       "atlas": "atlas-2",
       "w": 49,
       "h": 46,
@@ -1105,7 +1105,7 @@
     {
       "hash": "c001212121210182",
       "name": "atlas-2_21",
-      "role": "",
+      "role": "image",
       "atlas": "atlas-2",
       "w": 49,
       "h": 38,
@@ -1150,7 +1150,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_24",
-      "role": "slider",
+      "role": "",
       "atlas": "atlas-2",
       "w": 1023,
       "h": 32,
@@ -1165,7 +1165,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_25",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 1023,
       "h": 34,
@@ -1180,7 +1180,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_26",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 1023,
       "h": 114,
@@ -1240,7 +1240,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_30",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 296,
       "h": 91,
@@ -1330,7 +1330,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_36",
-      "role": "toggle",
+      "role": "",
       "atlas": "atlas-2",
       "w": 296,
       "h": 91,
@@ -1510,7 +1510,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_48",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 494,
       "h": 164,
@@ -1525,7 +1525,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_49",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 287,
       "h": 96,
@@ -1540,7 +1540,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_50",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 287,
       "h": 97,
@@ -1585,7 +1585,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_53",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 494,
       "h": 164,
@@ -1600,7 +1600,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_54",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 435,
       "h": 146,
@@ -1750,7 +1750,7 @@
     {
       "hash": "50dc2c63f9693d0f",
       "name": "props_9",
-      "role": "",
+      "role": "image",
       "atlas": "props",
       "w": 270,
       "h": 224,
@@ -1932,15 +1932,40 @@
       "key": "",
       "name": "BuyPanelRef",
       "kind": "screen",
+      "background": "",
       "size": [
         512,
         288
       ],
       "dim": 0,
-      "match": 0.9203277826309204,
+      "match": 0.9015135765075684,
       "showOnStart": false,
       "seen": 0,
       "elements": [
+        {
+          "id": "cash_box",
+          "role": "image",
+          "parent": "",
+          "sprite": "",
+          "hash": "",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
+          "rect": [
+            0.8945000171661377,
+            0.04170000180602074,
+            0.10159999877214432,
+            0.09030000120401382
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
+        },
         {
           "id": "cash_icon",
           "role": "image",
@@ -1951,12 +1976,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8827999830245972,
-            0.04170000180602074,
-            0.05079999938607216,
+            0.888700008392334,
+            0.045099999755620956,
+            0.04879999905824661,
             0.07639999687671661
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_amount",
@@ -1968,12 +2000,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.9491999745368958,
+            0.9531000256538391,
             0.05209999904036522,
             0.02930000051856041,
             0.0625
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card",
@@ -1985,46 +2024,43 @@
           "anim": "SlideLeft",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.6699000000953674,
+            0.6718999743461609,
             0.2639000117778778,
-            0.326200008392334,
+            0.32420000433921814,
             0.5694000124931335
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
-          "id": "card_title_new",
+          "id": "card_title",
           "role": "image",
           "parent": "card",
-          "sprite": "atlas-2_15",
-          "hash": "4200851511118340",
+          "sprite": "",
+          "hash": "",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.7519999742507935,
+            0.75,
             0.3021000027656555,
-            0.06449999660253525,
+            0.1445000022649765,
             0.05209999904036522
-          ]
-        },
-        {
-          "id": "card_title_item",
-          "role": "image",
-          "parent": "card",
-          "sprite": "atlas-2_16",
-          "hash": "1300686969690904",
-          "text": "",
-          "anim": "",
-          "sound": "",
-          "audio": "",
-          "rect": [
-            0.8223000168800354,
-            0.3021000027656555,
-            0.0723000019788742,
-            0.05209999904036522
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_glow",
@@ -2036,12 +2072,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7265999913215637,
-            0.3402999937534332,
+            0.3368000090122223,
             0.21480000019073486,
             0.3646000027656555
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
+        },
+        {
+          "id": "card_item",
+          "role": "image",
+          "parent": "card",
+          "sprite": "props_9",
+          "hash": "50dc2c63f9693d0f",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
+          "rect": [
+            0.7577999830245972,
+            0.3993000090122223,
+            0.14650000631809235,
+            0.19099999964237213
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_question",
@@ -2053,46 +2120,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7324000000953674,
             0.645799994468689,
             0.20509999990463257,
             0.04859999939799309
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_btn_free",
           "role": "button",
           "parent": "card",
-          "sprite": "atlas-2_49",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.673799991607666,
+            0.6776999831199646,
             0.729200005531311,
-            0.15230000019073486,
+            0.14839999377727509,
             0.09030000120401382
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_btn_free_icon",
           "role": "image",
           "parent": "card_btn_free",
-          "sprite": "atlas-1_4",
-          "hash": "8001212020200180",
+          "sprite": "atlas-2_21",
+          "hash": "c001212121210182",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6913999915122986,
             0.7465000152587891,
             0.03319999948143959,
             0.04859999939799309
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_btn_free_label",
@@ -2104,46 +2192,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.7343999743461609,
+            0.7383000254631042,
             0.7396000027656555,
-            0.07419999688863754,
-            0.05900000035762787
-          ]
+            0.0625,
+            0.05209999904036522
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_btn_buy",
           "role": "button",
           "parent": "card",
-          "sprite": "atlas-2_50",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8320000171661377,
+            0.8339999914169312,
             0.729200005531311,
-            0.15039999783039093,
+            0.14839999377727509,
             0.09030000120401382
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_btn_buy_icon",
           "role": "image",
           "parent": "card_btn_buy",
-          "sprite": "atlas-1_48",
-          "hash": "20a818366d452a08",
+          "sprite": "atlas-2_19",
+          "hash": "206898587d492a08",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8438000082969666,
             0.7361000180244446,
             0.0430000014603138,
-            0.0625
-          ]
+            0.05900000035762787
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_btn_buy_price",
@@ -2155,18 +2264,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8906000256538391,
+            0.888700008392334,
             0.7396000027656555,
-            0.0820000022649765,
-            0.05900000035762787
-          ]
+            0.07810000330209732,
+            0.05209999904036522
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -2174,12 +2292,13 @@
       "key": "",
       "name": "eliminated",
       "kind": "screen",
+      "background": "",
       "size": [
         1672,
         941
       ],
       "dim": 0,
-      "match": 0.7503361105918884,
+      "match": 0.7532979846000671,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2193,12 +2312,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.01080000028014183,
             0.008500000461935997,
             0.08070000261068344,
             0.14350000023841858
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "avatar_level",
@@ -2210,12 +2336,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.029899999499320984,
             0.11900000274181366,
             0.04490000009536743,
             0.03189999982714653
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_box",
@@ -2227,12 +2360,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8282999992370605,
             0.03400000184774399,
             0.05979999899864197,
             0.044599998742341995
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_icon",
@@ -2244,12 +2384,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7925000190734863,
             0.02979999966919422,
             0.040699999779462814,
             0.06159999966621399
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_amount",
@@ -2261,12 +2408,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8373000025749207,
             0.03400000184774399,
             0.04490000009536743,
             0.044599998742341995
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "targets",
@@ -2278,12 +2432,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.9000999927520752,
             0.026599999517202377,
             0.1046999990940094,
             0.06379999965429306
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "targets_count",
@@ -2295,12 +2456,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.9390000104904175,
             0.03400000184774399,
             0.04780000075697899,
             0.04780000075697899
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "banner",
@@ -2312,18 +2480,27 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.18240000307559967,
             0.1753000020980835,
-            0.6381999850273132,
+            0.6399999856948853,
             0.20190000534057617
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -2331,12 +2508,13 @@
       "key": "",
       "name": "env selc",
       "kind": "screen",
+      "background": "env-selc-bg",
       "size": [
         1920,
         1080
       ],
       "dim": 0,
-      "match": 0.922209620475769,
+      "match": 0.899181604385376,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2350,12 +2528,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.03440000116825104,
-            0.03799999877810478,
-            0.05829999968409538,
-            0.08240000158548355
-          ]
+            0.0348999984562397,
+            0.03889999911189079,
+            0.05730000138282776,
+            0.08060000091791153
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "title",
@@ -2367,12 +2552,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3312999904155731,
             0.05739999935030937,
-            0.3375000059604645,
+            0.3370000123977661,
             0.06390000134706497
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_box",
@@ -2384,12 +2576,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8853999972343445,
+            0.8802000284194946,
             0.052799999713897705,
-            0.09269999712705612,
+            0.09790000319480896,
             0.05739999935030937
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_icon",
@@ -2401,12 +2600,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8489999771118164,
             0.03700000047683716,
             0.05209999904036522,
             0.08330000191926956
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_amount",
@@ -2418,12 +2624,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.9089000225067139,
             0.05739999935030937,
-            0.0494999997317791,
-            0.05090000107884407
-          ]
+            0.05209999904036522,
+            0.04809999838471413
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_street_glow",
@@ -2435,12 +2648,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.07029999792575836,
             0.2110999971628189,
             0.2734000086784363,
             0.6851999759674072
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_street",
@@ -2452,12 +2672,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.07500000298023224,
-            0.22220000624656677,
-            0.26409998536109924,
-            0.6704000234603882
-          ]
+            0.21480000019073486,
+            0.2676999866962433,
+            0.6796000003814697
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_street_logo",
@@ -2469,12 +2696,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.12919999659061432,
             0.5407000184059143,
             0.15049999952316284,
             0.21199999749660492
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_market",
@@ -2486,12 +2720,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3707999885082245,
-            0.21480000019073486,
-            0.26460000872612,
-            0.6712999939918518
-          ]
+            0.3723999857902527,
+            0.2176000028848648,
+            0.2630000114440918,
+            0.666700005531311
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_market_shade",
@@ -2503,12 +2744,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.38280001282691956,
+            0.38179999589920044,
             0.2361000031232834,
             0.24220000207424164,
             0.5879999995231628
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_market_logo",
@@ -2520,12 +2768,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.41040000319480896,
+            0.4083000123500824,
             0.5480999946594238,
-            0.18019999563694,
-            0.20280000567436218
-          ]
+            0.18389999866485596,
+            0.20649999380111694
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_market_level",
@@ -2537,12 +2792,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4140999913215637,
             0.766700029373169,
             0.17970000207424164,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_market_lock",
@@ -2554,12 +2816,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3531000018119812,
             0.20739999413490295,
             0.05939999967813492,
             0.10369999706745148
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_port",
@@ -2571,12 +2840,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6625000238418579,
             0.21480000019073486,
             0.26460000872612,
             0.6712999939918518
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_port_shade",
@@ -2588,12 +2864,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.6744999885559082,
+            0.6733999848365784,
             0.2361000031232834,
             0.24220000207424164,
             0.5879999995231628
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_port_logo",
@@ -2605,12 +2888,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7063000202178955,
             0.5666999816894531,
-            0.16249999403953552,
-            0.18330000340938568
-          ]
+            0.16349999606609344,
+            0.1843000054359436
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_port_level",
@@ -2622,12 +2912,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7056999802589417,
-            0.7638999819755554,
+            0.7648000121116638,
             0.17970000207424164,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_port_lock",
@@ -2639,18 +2936,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6427000164985657,
             0.20739999413490295,
             0.05889999866485596,
             0.10279999673366547
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -2658,12 +2964,13 @@
       "key": "",
       "name": "hostage",
       "kind": "screen",
+      "background": "hostage-hit-bg",
       "size": [
         1920,
         1080
       ],
       "dim": 0,
-      "match": 0.9236888289451599,
+      "match": 0.897980272769928,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2677,12 +2984,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.16410000622272491,
             0.38429999351501465,
             0.6744999885559082,
             0.10649999976158142
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "mission_failed",
@@ -2694,29 +3008,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.24169999361038208,
             0.43700000643730164,
-            0.45829999446868896,
-            0.2962999939918518
-          ]
+            0.4625000059604645,
+            0.29910001158714294
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_restart",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_48",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.26249998807907104,
+            0.2603999972343445,
             0.7519000172615051,
-            0.2531000077724457,
+            0.25209999084472656,
             0.14910000562667847
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_restart_label",
@@ -2728,29 +3056,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3228999972343445,
             0.7824000120162964,
             0.13279999792575836,
             0.06939999759197235
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_skip",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_53",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.545799970626831,
             0.7519000172615051,
-            0.258899986743927,
-            0.15279999375343323
-          ]
+            0.2572999894618988,
+            0.15189999341964722
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_skip_icon",
@@ -2762,12 +3104,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5781000256538391,
             0.733299970626831,
-            0.06199999898672104,
-            0.125900000333786
-          ]
+            0.06300000101327896,
+            0.12780000269412994
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_skip_label",
@@ -2779,32 +3128,42 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6614999771118164,
             0.7824000120162964,
             0.0754999965429306,
             0.06939999759197235
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
     {
       "key": "",
       "name": "hud",
-      "kind": "hud",
+      "kind": "screen",
+      "background": "",
       "size": [
         1920,
         1080
       ],
       "dim": 0,
-      "match": 0.9271467924118042,
-      "showOnStart": true,
+      "match": 0.9197462797164917,
+      "showOnStart": false,
       "seen": 0,
       "elements": [
         {
@@ -2817,12 +3176,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.01979999989271164,
-            0.07039999961853027,
-            0.09480000287294388,
-            0.09719999879598618
-          ]
+            0.06849999725818634,
+            0.09529999643564224,
+            0.09809999912977219
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_env_icons",
@@ -2834,12 +3200,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.03229999914765358,
             0.03700000047683716,
             0.07079999893903732,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_env_label",
@@ -2851,12 +3224,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.02449999935925007,
             0.11760000139474869,
-            0.09839999675750732,
+            0.0989999994635582,
             0.029600000008940697
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_env_alert",
@@ -2868,12 +3248,19 @@
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.10419999808073044,
             0.05739999935030937,
             0.02810000069439411,
             0.05000000074505806
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "targets",
@@ -2885,12 +3272,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7218999862670898,
             0.04809999838471413,
-            0.11670000106096268,
-            0.07779999822378159
-          ]
+            0.11720000207424164,
+            0.0786999985575676
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "targets_count",
@@ -2902,12 +3296,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7698000073432922,
-            0.06480000168085098,
+            0.06300000101327896,
             0.0494999997317791,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_cash_add",
@@ -2919,12 +3320,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8406000137329102,
-            0.04439999908208847,
-            0.14219999313354492,
-            0.07590000331401825
-          ]
+            0.84170001745224,
+            0.046300001442432404,
+            0.1395999938249588,
+            0.07500000298023224
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_cash_add_amount",
@@ -2936,12 +3344,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8880000114440918,
             0.06300000101327896,
             0.05730000138282776,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "power_ring",
@@ -2953,12 +3368,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8646000027656555,
             0.38429999351501465,
             0.09640000015497208,
             0.1712999939918518
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_power",
@@ -2967,15 +3389,22 @@
           "sprite": "atlas-1_7",
           "hash": "40ac222b154d9640",
           "text": "",
-          "anim": "Pulse",
+          "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8619999885559082,
             0.39629998803138733,
             0.09109999984502792,
             0.16200000047683716
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_power_tag",
@@ -2987,12 +3416,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8672000169754028,
             0.5443999767303467,
             0.0681999996304512,
             0.05090000107884407
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_power_tag_icon",
@@ -3004,12 +3440,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8740000128746033,
-            0.550000011920929,
+            0.8723999857902527,
+            0.5480999946594238,
             0.026000000536441803,
-            0.03700000047683716
-          ]
+            0.03889999911189079
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_power_tag_price",
@@ -3021,12 +3464,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8984000086784363,
             0.5508999824523926,
             0.026000000536441803,
             0.03700000047683716
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "crime",
@@ -3038,12 +3488,19 @@
           "anim": "SlideUp",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.07079999893903732,
             0.8184999823570251,
             0.8285999894142151,
             0.1444000005722046
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "crime_title",
@@ -3055,12 +3512,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.17970000207424164,
-            0.791700005531311,
+            0.7943999767303467,
             0.21089999377727509,
-            0.06019999831914902
-          ]
+            0.05739999935030937
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "crime_objective",
@@ -3072,18 +3536,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.17970000207424164,
             0.8684999942779541,
             0.5885000228881836,
             0.04170000180602074
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -3091,12 +3564,13 @@
       "key": "",
       "name": "no internet",
       "kind": "popup",
+      "background": "",
       "size": [
         1920,
         1080
       ],
-      "dim": 0.5,
-      "match": 0.9773374199867249,
+      "dim": 0.6000000238418579,
+      "match": 0.9700881242752075,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3110,12 +3584,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2750000059604645,
             0.21480000019073486,
-            0.4697999954223633,
-            0.5221999883651733
-          ]
+            0.4693000018596649,
+            0.5213000178337097
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_title",
@@ -3127,12 +3608,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.4124999940395355,
+            0.4115000069141388,
             0.24070000648498535,
-            0.19740000367164612,
+            0.19949999451637268,
             0.052799999713897705
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_icon",
@@ -3144,12 +3632,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4332999885082245,
             0.34439998865127563,
             0.14839999377727509,
             0.22499999403953552
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_message",
@@ -3161,29 +3656,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3594000041484833,
             0.5879999995231628,
             0.30730000138282776,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_btn_try",
           "role": "button",
           "parent": "frame",
-          "sprite": "atlas-2_54",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.41040000319480896,
-            0.6518999934196472,
-            0.20419999957084656,
-            0.12129999697208405
-          ]
+            0.4083000123500824,
+            0.6629999876022339,
+            0.20309999585151672,
+            0.10649999976158142
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_btn_try_label",
@@ -3195,18 +3704,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4401000142097473,
-            0.6712999939918518,
+            0.6740999817848206,
             0.14579999446868896,
             0.06480000168085098
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -3214,12 +3732,13 @@
       "key": "",
       "name": "privacy",
       "kind": "popup",
+      "background": "",
       "size": [
         1920,
         1080
       ],
-      "dim": 0.5,
-      "match": 0.9639111757278442,
+      "dim": 0.6000000238418579,
+      "match": 0.9559559226036072,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3233,12 +3752,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.21250000596046448,
+            0.20829999446868896,
             0.16300000250339508,
-            0.6021000146865845,
-            0.625
-          ]
+            0.6025999784469604,
+            0.6258999705314636
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_title",
@@ -3250,12 +3776,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.42080000042915344,
             0.18520000576972961,
             0.18440000712871552,
             0.06300000101327896
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_text",
@@ -3267,12 +3800,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.25519999861717224,
             0.31940001249313354,
             0.5130000114440918,
-            0.10649999976158142
-          ]
+            0.10189999639987946
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_btn_terms",
@@ -3284,12 +3824,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3646000027656555,
             0.47040000557899475,
             0.29170000553131104,
             0.05739999935030937
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_age",
@@ -3301,29 +3848,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.27079999446868896,
             0.5694000124931335,
-            0.48179998993873596,
+            0.47920000553131104,
             0.06019999831914902
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_btn_accept",
           "role": "button",
           "parent": "frame",
-          "sprite": "atlas-2_54",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.39579999446868896,
-            0.6963000297546387,
-            0.2296999990940094,
-            0.13699999451637268
-          ]
+            0.3978999853134155,
+            0.7110999822616577,
+            0.22759999334812164,
+            0.1185000017285347
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_btn_accept_icon",
@@ -3335,12 +3896,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4203000068664551,
             0.7074000239372253,
             0.04170000180602074,
             0.07779999822378159
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "frame_btn_accept_label",
@@ -3352,18 +3920,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4713999927043915,
             0.7203999757766724,
             0.11720000207424164,
             0.06939999759197235
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -3371,12 +3948,13 @@
       "key": "",
       "name": "revive",
       "kind": "popup",
+      "background": "",
       "size": [
         1920,
         1080
       ],
-      "dim": 0.4000000059604645,
-      "match": 0.8965187072753906,
+      "dim": 0.30000001192092896,
+      "match": 0.8873354196548462,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3390,12 +3968,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3228999972343445,
-            0.09719999879598618,
-            0.33070001006126404,
-            0.5879999995231628
-          ]
+            0.3167000114917755,
+            0.08799999952316284,
+            0.3384999930858612,
+            0.6111000180244446
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "timer",
@@ -3407,12 +3992,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3172000050544739,
-            0.08699999749660492,
-            0.3416999876499176,
-            0.6074000000953674
-          ]
+            0.32030001282691956,
+            0.08799999952316284,
+            0.3384999930858612,
+            0.6111000180244446
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "timer_count",
@@ -3424,12 +4016,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4661000072956085,
             0.541700005531311,
             0.03909999877214432,
             0.09719999879598618
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "circle_title",
@@ -3441,12 +4040,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4115000069141388,
             0.16670000553131104,
             0.14839999377727509,
             0.06939999759197235
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "circle_subtitle",
@@ -3458,12 +4064,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3880000114440918,
-            0.24809999763965607,
-            0.19529999792575836,
-            0.04170000180602074
-          ]
+            0.38960000872612,
+            0.24539999663829803,
+            0.19269999861717224,
+            0.046300001442432404
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "circle_face",
@@ -3475,29 +4088,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4187000095844269,
             0.3073999881744385,
             0.13910000026226044,
             0.2046000063419342
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_yes",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_54",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3833000063896179,
-            0.7221999764442444,
-            0.20679999887943268,
-            0.12309999763965607
-          ]
+            0.38119998574256897,
+            0.7369999885559082,
+            0.2078000009059906,
+            0.10830000042915344
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_yes_icon",
@@ -3509,12 +4136,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.38960000872612,
             0.7148000001907349,
             0.04899999871850014,
             0.09910000115633011
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_yes_label",
@@ -3526,18 +4160,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4650999903678894,
             0.7454000115394592,
             0.05990000069141388,
             0.06480000168085098
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -3545,12 +4188,13 @@
       "key": "",
       "name": "settinng",
       "kind": "popup",
+      "background": "",
       "size": [
         1920,
         1080
       ],
-      "dim": 0.5,
-      "match": 0.9710773825645447,
+      "dim": 0.6000000238418579,
+      "match": 0.926490306854248,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3564,12 +4208,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.15000000596046448,
             0.10369999706745148,
-            0.720300018787384,
+            0.72079998254776,
             0.7565000057220459
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_title",
@@ -3581,12 +4232,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.40310001373291016,
+            0.4041999876499176,
             0.1315000057220459,
-            0.2078000009059906,
+            0.20730000734329224,
             0.0731000006198883
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_btn_close",
@@ -3598,12 +4256,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8177000284194946,
             0.125900000333786,
-            0.06509999930858612,
-            0.08609999716281891
-          ]
+            0.06560000032186508,
+            0.08699999749660492
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_music_bg",
@@ -3615,12 +4280,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.20309999585151672,
             0.25,
             0.05730000138282776,
             0.08799999952316284
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_music_icon",
@@ -3632,12 +4304,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.21250000596046448,
             0.2619999945163727,
-            0.033900000154972076,
+            0.03750000149011612,
             0.06669999659061432
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_music_label",
@@ -3649,46 +4328,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2802000045776367,
             0.25929999351501465,
             0.05730000138282776,
             0.03700000047683716
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_music",
           "role": "slider",
           "parent": "dialog",
-          "sprite": "atlas-2_24",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
-          "audio": "",
+          "audio": "music",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2734000086784363,
             0.29809999465942383,
             0.5311999917030334,
             0.029600000008940697
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_music_fill",
           "role": "image",
           "parent": "dialog_music",
-          "sprite": "atlas-2_25",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2745000123977661,
             0.31200000643730164,
-            0.31150001287460327,
+            0.3082999885082245,
             0.01850000023841858
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_music_knob",
@@ -3700,12 +4400,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5530999898910522,
             0.2815000116825104,
-            0.05570000037550926,
-            0.06199999898672104
-          ]
+            0.05620000138878822,
+            0.06300000101327896
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sound_bg",
@@ -3717,12 +4424,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.20309999585151672,
             0.37959998846054077,
             0.05730000138282776,
             0.08799999952316284
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sound_icon",
@@ -3734,12 +4448,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.21089999377727509,
             0.3889000117778778,
-            0.0406000018119812,
+            0.04170000180602074,
             0.06939999759197235
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sound_label",
@@ -3751,46 +4472,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.28279998898506165,
             0.38429999351501465,
             0.05829999968409538,
             0.03700000047683716
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sound",
           "role": "slider",
           "parent": "dialog",
-          "sprite": "atlas-2_24",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
-          "audio": "",
+          "audio": "sfx",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2734000086784363,
             0.42590001225471497,
             0.5311999917030334,
             0.029600000008940697
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sound_fill",
           "role": "image",
           "parent": "dialog_sound",
-          "sprite": "atlas-2_25",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.27399998903274536,
-            0.4343000054359436,
-            0.3849000036716461,
-            0.023099999874830246
-          ]
+            0.2745000123977661,
+            0.4361000061035156,
+            0.3578000068664551,
+            0.021299999207258224
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sound_knob",
@@ -3802,12 +4544,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.6182000041007996,
-            0.4083000123500824,
-            0.0568000003695488,
-            0.06390000134706497
-          ]
+            0.6187000274658203,
+            0.4092999994754791,
+            0.05570000037550926,
+            0.06199999898672104
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sensitivity_bg",
@@ -3819,12 +4568,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.20309999585151672,
             0.5092999935150146,
             0.05730000138282776,
             0.08799999952316284
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sensitivity_icon",
@@ -3836,12 +4592,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.20829999446868896,
             0.5184999704360962,
-            0.04580000042915344,
+            0.04690000042319298,
             0.07590000331401825
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sensitivity_label",
@@ -3853,46 +4616,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.2802000045776367,
+            0.28119999170303345,
             0.5092999935150146,
-            0.10679999738931656,
+            0.10419999808073044,
             0.03889999911189079
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sensitivity",
           "role": "slider",
           "parent": "dialog",
-          "sprite": "atlas-2_24",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "none",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2734000086784363,
-            0.5536999702453613,
+            0.5527999997138977,
             0.5311999917030334,
             0.029600000008940697
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sensitivity_fill",
           "role": "image",
           "parent": "dialog_sensitivity",
-          "sprite": "atlas-2_25",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2745000123977661,
             0.5638999938964844,
-            0.35989999771118164,
+            0.3578000068664551,
             0.021299999207258224
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_sensitivity_knob",
@@ -3904,29 +4688,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6187000274658203,
             0.5407000184059143,
-            0.05570000037550926,
-            0.06199999898672104
-          ]
+            0.05620000138878822,
+            0.06300000101327896
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
+        },
+        {
+          "id": "dialog_quality_icon_bg",
+          "role": "image",
+          "parent": "dialog",
+          "sprite": "atlas-2_7",
+          "hash": "8000000000000080",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
+          "rect": [
+            0.19529999792575836,
+            0.6833000183105469,
+            0.06769999861717224,
+            0.10369999706745148
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_icon",
           "role": "image",
-          "parent": "dialog",
+          "parent": "dialog_quality_icon_bg",
           "sprite": "atlas-2_0",
           "hash": "8000412121410080",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.19480000436306,
-            0.6815000176429749,
-            0.06880000233650208,
-            0.10649999976158142
-          ]
+            0.20469999313354492,
+            0.6991000175476074,
+            0.0494999997317791,
+            0.07410000264644623
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_label",
@@ -3938,29 +4760,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.28540000319480896,
             0.6647999882698059,
             0.17970000207424164,
-            0.04439999908208847
-          ]
+            0.046300001442432404
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_bg",
           "role": "image",
           "parent": "dialog",
-          "sprite": "atlas-2_26",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2734000086784363,
             0.7221999764442444,
             0.5311999917030334,
-            0.10369999706745148
-          ]
+            0.10189999639987946
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality",
@@ -3972,46 +4808,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2734000086784363,
             0.7221999764442444,
             0.5311999917030334,
-            0.10369999706745148
-          ]
+            0.10189999639987946
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_low",
           "role": "toggle",
           "parent": "dialog_quality",
-          "sprite": "atlas-2_36",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2822999954223633,
             0.7343000173568726,
             0.1526000052690506,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_low_on",
           "role": "image",
           "parent": "dialog_quality_low",
-          "sprite": "atlas-2_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2822999954223633,
             0.7343000173568726,
             0.1526000052690506,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_low_label",
@@ -4023,46 +4880,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3384999930858612,
+            0.3375000059604645,
             0.7545999884605408,
             0.04170000180602074,
-            0.04170000180602074
-          ]
+            0.03889999911189079
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_medium",
           "role": "toggle",
           "parent": "dialog_quality",
-          "sprite": "atlas-2_36",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.45680001378059387,
             0.7343000173568726,
             0.1526000052690506,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_medium_on",
           "role": "image",
           "parent": "dialog_quality_medium",
-          "sprite": "atlas-2_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.45680001378059387,
             0.7343000173568726,
             0.1526000052690506,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_medium_label",
@@ -4074,46 +4952,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4957999885082245,
             0.7545999884605408,
             0.0754999965429306,
-            0.04170000180602074
-          ]
+            0.03889999911189079
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_high",
           "role": "toggle",
           "parent": "dialog_quality",
-          "sprite": "atlas-2_36",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6431999802589417,
             0.7343000173568726,
             0.1526000052690506,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_high_on",
           "role": "image",
           "parent": "dialog_quality_high",
-          "sprite": "atlas-2_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6431999802589417,
             0.7343000173568726,
             0.1526000052690506,
             0.08150000125169754
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "dialog_quality_high_label",
@@ -4125,18 +5024,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6978999972343445,
             0.7545999884605408,
             0.04430000111460686,
-            0.04170000180602074
-          ]
+            0.03889999911189079
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -4144,12 +5052,13 @@
       "key": "",
       "name": "shop",
       "kind": "screen",
+      "background": "shop-bg",
       "size": [
         1920,
         1080
       ],
       "dim": 0,
-      "match": 0.9724748730659485,
+      "match": 0.9529340267181396,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -4163,12 +5072,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.03539999946951866,
-            0.01850000023841858,
-            0.05829999968409538,
-            0.08240000158548355
-          ]
+            0.03590000048279762,
+            0.01940000057220459,
+            0.05779999867081642,
+            0.08150000125169754
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "title",
@@ -4180,12 +5096,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4447999894618988,
             0.03700000047683716,
             0.1307000070810318,
             0.09070000052452087
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_box",
@@ -4197,12 +5120,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.8853999972343445,
+            0.8802000284194946,
             0.052799999713897705,
-            0.09269999712705612,
+            0.09790000319480896,
             0.05739999935030937
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_icon",
@@ -4214,12 +5144,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.8489999771118164,
             0.03700000047683716,
             0.05209999904036522,
             0.08330000191926956
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "cash_amount",
@@ -4231,12 +5168,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.9089000225067139,
             0.05739999935030937,
-            0.0494999997317791,
-            0.05090000107884407
-          ]
+            0.05209999904036522,
+            0.04809999838471413
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_noads",
@@ -4248,29 +5192,43 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.0333000011742115,
             0.11110000312328339,
-            0.24480000138282776,
-            0.7610999941825867
-          ]
+            0.24639999866485596,
+            0.7656999826431274
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_noads_title",
-          "role": "text",
+          "role": "image",
           "parent": "card_noads",
           "sprite": "",
           "hash": "",
-          "text": "REMOVE <color=#FFD21E>ADS</color>",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.09380000084638596,
-            0.2110999971628189,
-            0.14319999516010284,
-            0.046300001442432404
-          ]
+            0.21199999749660492,
+            0.14219999313354492,
+            0.04349999874830246
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_noads_tag",
@@ -4282,12 +5240,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.0478999987244606,
             0.28519999980926514,
-            0.06199999898672104,
+            0.0625,
             0.06759999692440033
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_noads_subtitle",
@@ -4299,46 +5264,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.0828000009059906,
+            0.0812000036239624,
             0.733299970626831,
-            0.16249999403953552,
+            0.16459999978542328,
             0.03150000050663948
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_noads_btn_buy",
           "role": "button",
           "parent": "card_noads",
-          "sprite": "atlas-1_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.07500000298023224,
-            0.7778000235557556,
-            0.18279999494552612,
-            0.10649999976158142
-          ]
+            0.09839999675750732,
+            0.7935000061988831,
+            0.15209999680519104,
+            0.07959999889135361
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_noads_btn_buy_price",
-          "role": "text",
+          "role": "image",
           "parent": "card_noads_btn_buy",
           "sprite": "",
           "hash": "",
-          "text": "$ 3.99",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.12240000069141388,
-            0.791700005531311,
-            0.09380000084638596,
-            0.06939999759197235
-          ]
+            0.12290000170469284,
+            0.7907000184059143,
+            0.09269999712705612,
+            0.06199999898672104
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_bonus",
@@ -4350,12 +5336,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.32919999957084656,
+            0.3312999904155731,
             0.1444000005722046,
-            0.1729000061750412,
-            0.33980000019073486
-          ]
+            0.17080000042915344,
+            0.3370000123977661
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_bonus_title",
@@ -4367,46 +5360,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3589000105857849,
             0.2046000063419342,
             0.1160999983549118,
             0.03610000014305115
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_bonus_img",
           "role": "image",
           "parent": "card_bonus",
-          "sprite": "atlas-1_18",
-          "hash": "20d0a8b85a452a08",
+          "sprite": "atlas-1_19",
+          "hash": "10b88c766e362a08",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.35830000042915344,
-            0.2630000114440918,
-            0.11670000106096268,
-            0.16300000250339508
-          ]
+            0.3594000041484833,
+            0.2639000117778778,
+            0.10419999808073044,
+            0.1573999971151352
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_bonus_amount",
-          "role": "text",
+          "role": "image",
           "parent": "card_bonus",
           "sprite": "",
           "hash": "",
-          "text": "+10",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.41670000553131104,
+            0.41609999537467957,
             0.36570000648498535,
-            0.05730000138282776,
-            0.06019999831914902
-          ]
+            0.0568000003695488,
+            0.05559999868273735
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_bonus_btn_buy",
@@ -4418,12 +5432,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.34060001373291016,
             0.4406999945640564,
             0.15209999680519104,
             0.07959999889135361
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_bonus_btn_buy_icon",
@@ -4435,15 +5456,22 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.35989999771118164,
             0.4546000063419342,
             0.029200000688433647,
             0.04170000180602074
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
-          "id": "card_bonus_btn_buy_label",
+          "id": "card_bonus_btn_buy_price",
           "role": "image",
           "parent": "card_bonus_btn_buy",
           "sprite": "atlas-1_10",
@@ -4452,12 +5480,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.40310001373291016,
             0.45829999446868896,
             0.04899999871850014,
             0.03700000047683716
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_100",
@@ -4469,12 +5504,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.52920001745224,
+            0.5311999917030334,
             0.1444000005722046,
-            0.1729000061750412,
-            0.33980000019073486
-          ]
+            0.17190000414848328,
+            0.33889999985694885
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_100_icon",
@@ -4486,80 +5528,115 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5677000284194946,
-            0.20190000534057617,
+            0.19910000264644623,
             0.028599999845027924,
-            0.04439999908208847
-          ]
+            0.046300001442432404
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_100_title",
-          "role": "text",
+          "role": "image",
           "parent": "card_100",
           "sprite": "",
           "hash": "",
-          "text": "+100",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.5989999771118164,
-            0.20190000534057617,
-            0.05469999834895134,
-            0.04439999908208847
-          ]
+            0.5983999967575073,
+            0.2037000060081482,
+            0.0551999993622303,
+            0.039799999445676804
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_100_img",
           "role": "image",
           "parent": "card_100",
-          "sprite": "atlas-1_19",
-          "hash": "10b88c766e362a08",
+          "sprite": "atlas-1_18",
+          "hash": "20d0a8b85a452a08",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5666999816894531,
-            0.26669999957084656,
-            0.10729999840259552,
-            0.16200000047683716
-          ]
+            0.2685000002384186,
+            0.09640000015497208,
+            0.1573999971151352
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_100_btn_buy",
           "role": "button",
           "parent": "card_100",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5406000018119812,
             0.4406999945640564,
             0.15209999680519104,
             0.07959999889135361
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_100_btn_buy_price",
-          "role": "text",
+          "role": "image",
           "parent": "card_100_btn_buy",
           "sprite": "",
           "hash": "",
-          "text": "$0.99",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.5859000086784363,
-            0.4537000060081482,
-            0.0625,
-            0.046300001442432404
-          ]
+            0.5864999890327454,
+            0.4472000002861023,
+            0.05990000069141388,
+            0.05090000107884407
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_1100",
@@ -4571,12 +5648,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.729200005531311,
+            0.7311999797821045,
             0.1444000005722046,
-            0.1729000061750412,
-            0.33980000019073486
-          ]
+            0.17190000414848328,
+            0.33889999985694885
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_1100_icon",
@@ -4588,29 +5672,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7630000114440918,
-            0.20190000534057617,
+            0.19910000264644623,
             0.028599999845027924,
-            0.04439999908208847
-          ]
+            0.046300001442432404
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_1100_title",
-          "role": "text",
+          "role": "image",
           "parent": "card_1100",
           "sprite": "",
           "hash": "",
-          "text": "+1100",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7953000068664551,
-            0.20190000534057617,
-            0.06509999930858612,
-            0.04439999908208847
-          ]
+            0.2046000063419342,
+            0.0640999972820282,
+            0.039799999445676804
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_1100_img",
@@ -4622,46 +5720,67 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7603999972343445,
             0.25929999351501465,
-            0.12290000170469284,
-            0.1768999993801117
-          ]
+            0.12549999356269836,
+            0.18060000240802765
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_1100_btn_buy",
           "role": "button",
           "parent": "card_1100",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7405999898910522,
             0.4406999945640564,
             0.15209999680519104,
             0.07959999889135361
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_1100_btn_buy_price",
-          "role": "text",
+          "role": "image",
           "parent": "card_1100_btn_buy",
-          "sprite": "",
-          "hash": "",
-          "text": "$7.99",
+          "sprite": "atlas-1_11",
+          "hash": "802c459250d05500",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.7875000238418579,
-            0.4537000060081482,
-            0.05990000069141388,
+            0.7885000109672546,
+            0.45190000534057617,
+            0.05620000138878822,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_mini",
@@ -4673,46 +5792,43 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.32919999957084656,
+            0.3312999904155731,
             0.5435000061988831,
-            0.1729000061750412,
-            0.33980000019073486
-          ]
+            0.17190000414848328,
+            0.33889999985694885
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
-          "id": "card_mini_title_mini",
+          "id": "card_mini_title",
           "role": "image",
           "parent": "card_mini",
-          "sprite": "atlas-1_41",
-          "hash": "0081c16363232140",
+          "sprite": "",
+          "hash": "",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.366100013256073,
             0.6065000295639038,
-            0.051600001752376556,
-            0.03519999980926514
-          ]
-        },
-        {
-          "id": "card_mini_title_pack",
-          "role": "image",
-          "parent": "card_mini",
-          "sprite": "atlas-1_42",
-          "hash": "4804b51919595529",
-          "text": "",
-          "anim": "",
-          "sound": "",
-          "audio": "",
-          "rect": [
-            0.41769999265670776,
-            0.6065000295639038,
-            0.051600001752376556,
+            0.1031000018119812,
             0.03610000014305115
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_mini_img",
@@ -4724,63 +5840,91 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.3375000059604645,
-            0.6593000292778015,
-            0.14640000462532043,
-            0.18150000274181366
-          ]
+            0.6629999876022339,
+            0.14480000734329224,
+            0.17870000004768372
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_mini_amount",
-          "role": "text",
+          "role": "image",
           "parent": "card_mini",
           "sprite": "",
           "hash": "",
-          "text": "+500",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.4348999857902527,
-            0.791700005531311,
-            0.05990000069141388,
-            0.046300001442432404
-          ]
+            0.7925999760627747,
+            0.0608999989926815,
+            0.04439999908208847
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_mini_btn_buy",
           "role": "button",
           "parent": "card_mini",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.34060001373291016,
-            0.8425999879837036,
+            0.8398000001907349,
             0.15209999680519104,
             0.07959999889135361
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_mini_btn_buy_price",
-          "role": "text",
+          "role": "image",
           "parent": "card_mini_btn_buy",
-          "sprite": "",
-          "hash": "",
-          "text": "$6.99",
+          "sprite": "atlas-1_11",
+          "hash": "802c459250d05500",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.3865000009536743,
-            0.8565000295639038,
-            0.05990000069141388,
+            0.38850000500679016,
+            0.8508999943733215,
+            0.05620000138878822,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_500",
@@ -4792,12 +5936,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.52920001745224,
-            0.5443999767303467,
-            0.1729000061750412,
-            0.33980000019073486
-          ]
+            0.5311999917030334,
+            0.5454000234603882,
+            0.17190000414848328,
+            0.33889999985694885
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_500_icon",
@@ -4809,29 +5960,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5677000284194946,
-            0.6018999814987183,
+            0.6000000238418579,
             0.028599999845027924,
-            0.04439999908208847
-          ]
+            0.046300001442432404
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_500_title",
-          "role": "text",
+          "role": "image",
           "parent": "card_500",
           "sprite": "",
           "hash": "",
-          "text": "+500",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.5989999771118164,
-            0.6018999814987183,
-            0.05469999834895134,
-            0.04439999908208847
-          ]
+            0.59579998254776,
+            0.6055999994277954,
+            0.06040000170469284,
+            0.039799999445676804
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_500_img",
@@ -4843,46 +6008,91 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.5583000183105469,
+            0.5594000220298767,
             0.666700005531311,
-            0.11249999701976776,
-            0.1648000031709671
-          ]
+            0.11150000244379044,
+            0.16300000250339508
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
+        },
+        {
+          "id": "card_500_tag",
+          "role": "image",
+          "parent": "card_500",
+          "sprite": "",
+          "hash": "",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
+          "rect": [
+            0.5245000123977661,
+            0.656499981880188,
+            0.04430000111460686,
+            0.052799999713897705
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_500_btn_buy",
           "role": "button",
           "parent": "card_500",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5406000018119812,
-            0.8425999879837036,
+            0.84170001745224,
             0.15209999680519104,
             0.07959999889135361
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_500_btn_buy_price",
-          "role": "text",
+          "role": "image",
           "parent": "card_500_btn_buy",
-          "sprite": "",
-          "hash": "",
-          "text": "$3.99",
+          "sprite": "atlas-1_9",
+          "hash": "800a451a50505500",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.5870000123977661,
-            0.8565000295639038,
-            0.05990000069141388,
-            0.046300001442432404
-          ]
+            0.5879999995231628,
+            0.8508999943733215,
+            0.05730000138282776,
+            0.047200001776218414
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_2750",
@@ -4894,12 +6104,19 @@
           "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.729200005531311,
-            0.5443999767303467,
-            0.1729000061750412,
-            0.33980000019073486
-          ]
+            0.7297000288963318,
+            0.5454000234603882,
+            0.17190000414848328,
+            0.33889999985694885
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_2750_icon",
@@ -4911,29 +6128,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7630000114440918,
-            0.6018999814987183,
+            0.6000000238418579,
             0.028599999845027924,
-            0.04439999908208847
-          ]
+            0.046300001442432404
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_2750_title",
-          "role": "text",
+          "role": "image",
           "parent": "card_2750",
           "sprite": "",
           "hash": "",
-          "text": "+2750",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.7953000068664551,
-            0.6018999814987183,
-            0.06509999930858612,
-            0.04439999908208847
-          ]
+            0.7947999835014343,
+            0.6055999994277954,
+            0.06719999760389328,
+            0.039799999445676804
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_2750_img",
@@ -4945,52 +6176,99 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7541999816894531,
             0.6593000292778015,
-            0.125,
-            0.18150000274181366
-          ]
+            0.12399999797344208,
+            0.18060000240802765
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
+        },
+        {
+          "id": "card_2750_tag",
+          "role": "image",
+          "parent": "card_2750",
+          "sprite": "",
+          "hash": "",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
+          "rect": [
+            0.7260000109672546,
+            0.656499981880188,
+            0.04430000111460686,
+            0.052799999713897705
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_2750_btn_buy",
           "role": "button",
           "parent": "card_2750",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.7405999898910522,
-            0.8425999879837036,
+            0.7390999794006348,
+            0.84170001745224,
             0.15209999680519104,
             0.07959999889135361
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "card_2750_btn_buy_price",
-          "role": "text",
+          "role": "image",
           "parent": "card_2750_btn_buy",
           "sprite": "",
           "hash": "",
-          "text": "$12.99",
+          "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.7839000225067139,
-            0.8565000295639038,
-            0.06769999861717224,
+            0.8536999821662903,
+            0.06610000133514404,
             0.046300001442432404
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     },
@@ -4998,12 +6276,13 @@
       "key": "",
       "name": "unlock env",
       "kind": "screen",
+      "background": "env-unlock-bg 1920x1080",
       "size": [
         1920,
         1080
       ],
       "dim": 0,
-      "match": 0.9687082767486572,
+      "match": 0.9638757109642029,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -5017,12 +6296,19 @@
           "anim": "Fade",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5083000063896179,
             0.25189998745918274,
-            0.35359999537467957,
-            0.5203999876976013
-          ]
+            0.35519999265670776,
+            0.5231000185012817
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "banner",
@@ -5031,15 +6317,22 @@
           "sprite": "atlas-2_52",
           "hash": "0400000101010201",
           "text": "",
-          "anim": "SlideRight",
+          "anim": "SlideLeft",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.2004999965429306,
-            0.027799999341368675,
+            0.023099999874830246,
             0.5103999972343445,
-            0.19439999759197235
-          ]
+            0.20829999446868896
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "banner_title",
@@ -5051,12 +6344,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.31769999861717224,
-            0.023099999874830246,
+            0.31869998574256897,
+            0.01850000023841858,
             0.29170000553131104,
-            0.10649999976158142
-          ]
+            0.12039999663829803
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "banner_unlocked",
@@ -5068,12 +6368,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.4749999940395355,
-            0.10930000245571136,
-            0.1687999963760376,
-            0.0786999985575676
-          ]
+            0.47290000319480896,
+            0.10740000009536743,
+            0.17239999771118164,
+            0.08060000091791153
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "fx_line_1",
@@ -5085,12 +6392,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.04170000180602074,
             0.23149999976158142,
-            0.0364999994635582,
+            0.0494999997317791,
             0.05090000107884407
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "fx_line_2",
@@ -5102,12 +6416,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.05990000069141388,
+            0.05730000138282776,
             0.1712999939918518,
-            0.028599999845027924,
-            0.09260000288486481
-          ]
+            0.026000000536441803,
+            0.08799999952316284
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "fx_line_3",
@@ -5119,12 +6440,19 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.09640000015497208,
             0.19910000264644623,
             0.013000000268220901,
             0.07410000264644623
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "haha",
@@ -5133,15 +6461,22 @@
           "sprite": "atlas-2_2",
           "hash": "4c822148a04c2a04",
           "text": "",
-          "anim": "Float",
+          "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.15729999542236328,
             0.28519999980926514,
             0.11089999973773956,
             0.11760000139474869
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "reward",
@@ -5150,15 +6485,22 @@
           "sprite": "atlas-2_45",
           "hash": "80804040a0208140",
           "text": "",
-          "anim": "",
+          "anim": "Pop",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.583299994468689,
-            0.7037000060081482,
+            0.708299994468689,
             0.1509999930858612,
             0.09719999879598618
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "reward_amount",
@@ -5170,29 +6512,43 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.6484000086784363,
             0.7361000180244446,
-            0.08590000122785568,
+            0.0754999965429306,
             0.05559999868273735
-          ]
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_continue",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_50",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
-            0.5541999936103821,
-            0.8259000182151794,
-            0.23389999568462372,
-            0.14069999754428864
-          ]
+            0.5562000274658203,
+            0.8295999765396118,
+            0.22450000047683716,
+            0.1324000060558319
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         },
         {
           "id": "btn_continue_label",
@@ -5204,18 +6560,27 @@
           "anim": "",
           "sound": "",
           "audio": "",
+          "color": "",
+          "opens": "",
+          "shows": "",
           "rect": [
             0.5910999774932861,
             0.8518999814987183,
             0.15620000660419464,
-            0.07410000264644623
-          ]
+            0.06939999759197235
+          ],
+          "on": false,
+          "sliced": false,
+          "value": 0,
+          "seconds": 0
         }
       ],
       "template": {
         "from": "",
+        "background": "",
         "size": [],
         "dim": 0,
+        "showOnStart": false,
         "elements": []
       }
     }
