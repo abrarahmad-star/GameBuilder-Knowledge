@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T11:07:51.994Z",
+  "built": "2026-11-18T11:17:21.235Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -30,8 +30,8 @@
       "seen": 1
     },
     {
-      "hash": "668947ac45665b26",
-      "w": 110,
+      "hash": "20505eb5a81558a4",
+      "w": 228,
       "h": 61,
       "name": null,
       "role": null,
@@ -118,9 +118,9 @@
       "seen": 1
     },
     {
-      "hash": "0024616248a82b00",
-      "w": 125,
-      "h": 50,
+      "hash": "04aa52c840525200",
+      "w": 363,
+      "h": 55,
       "name": null,
       "role": null,
       "seen": 1
@@ -270,8 +270,8 @@
       "seen": 1
     },
     {
-      "hash": "12319a1a2604a580",
-      "w": 83,
+      "hash": "4b886a61aaaba908",
+      "w": 177,
       "h": 57,
       "name": null,
       "role": null,
@@ -286,9 +286,9 @@
       "seen": 1
     },
     {
-      "hash": "1285404848c0a552",
-      "w": 123,
-      "h": 43,
+      "hash": "804c1c18191c4804",
+      "w": 256,
+      "h": 45,
       "name": null,
       "role": null,
       "seen": 1
@@ -310,25 +310,41 @@
       "seen": 1
     },
     {
-      "hash": "2a95454c4c44956a",
-      "w": 105,
-      "h": 43,
+      "hash": "80512409090d9609",
+      "w": 339,
+      "h": 47,
       "name": null,
       "role": null,
       "seen": 1
     },
     {
-      "hash": "8d08484a47444402",
-      "w": 198,
+      "hash": "0081c16363232140",
+      "w": 100,
+      "h": 38,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "4804b51919595529",
+      "w": 99,
       "h": 39,
       "name": null,
       "role": null,
       "seen": 1
     },
     {
-      "hash": "228d405a90505900",
-      "w": 177,
-      "h": 68,
+      "hash": "019a800804020409",
+      "w": 182,
+      "h": 114,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "a249454444464592",
+      "w": 130,
+      "h": 61,
       "name": null,
       "role": null,
       "seen": 1
@@ -339,6 +355,14 @@
       "h": 69,
       "name": null,
       "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "5201a12425272592",
+      "w": 91,
+      "h": 46,
+      "name": null,
+      "role": null,
       "seen": 1
     },
     {
@@ -379,70 +403,6 @@
       "h": 88,
       "name": null,
       "role": "button",
-      "seen": 1
-    },
-    {
-      "hash": "4a9535caca28352a",
-      "w": 118,
-      "h": 48,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "8070514a50505980",
-      "w": 116,
-      "h": 50,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "80b059686051a000",
-      "w": 122,
-      "h": 55,
-      "name": "atlas-1_14bb",
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "52ad006844848150",
-      "w": 128,
-      "h": 43,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "6a95454c4844952a",
-      "w": 114,
-      "h": 43,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "2a95454e4a44856a",
-      "w": 106,
-      "h": 43,
-      "name": "atlas-1_40bb",
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "153302020c089383",
-      "w": 84,
-      "h": 57,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "aa1004a824295428",
-      "w": 275,
-      "h": 46,
-      "name": null,
-      "role": null,
       "seen": 1
     },
     {
@@ -566,8 +526,16 @@
       "seen": 1
     },
     {
-      "hash": "0400101818101008",
-      "w": 274,
+      "hash": "4200851511118340",
+      "w": 126,
+      "h": 56,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "1300686969690904",
+      "w": 140,
       "h": 56,
       "name": null,
       "role": null,
@@ -1232,7 +1200,7 @@
             "rect": [
               0.6913999915122986,
               0.7465000152587891,
-              0.03519999980926514,
+              0.03319999948143959,
               0.04859999939799309
             ],
             "on": false,
@@ -2312,7 +2280,7 @@
             "rect": [
               0.7218999862670898,
               0.04809999838471413,
-              0.1160999983549118,
+              0.11670000106096268,
               0.07779999822378159
             ],
             "on": false,
@@ -2780,8 +2748,8 @@
             "rect": [
               0.20829999446868896,
               0.15559999644756317,
-              0.6061999797821045,
-              0.6295999884605408
+              0.6098999977111816,
+              0.6333000063896179
             ],
             "on": false,
             "sliced": false,
@@ -4248,9 +4216,9 @@
             "opens": "",
             "shows": "",
             "rect": [
-              0.04839999973773956,
+              0.0478999987244606,
               0.28519999980926514,
-              0.061500001698732376,
+              0.06199999898672104,
               0.06759999692440033
             ],
             "on": false,
@@ -4491,7 +4459,7 @@
               0.40310001373291016,
               0.45829999446868896,
               0.04899999871850014,
-              0.03799999877810478
+              0.03700000047683716
             ],
             "on": false,
             "sliced": false,
@@ -4801,7 +4769,7 @@
             "shows": "",
             "rect": [
               0.3312999904155731,
-              0.5443999767303467,
+              0.5454000234603882,
               0.1729000061750412,
               0.3407000005245209
             ],
@@ -4897,7 +4865,7 @@
             "shows": "",
             "rect": [
               0.34060001373291016,
-              0.8406999707221985,
+              0.84170001745224,
               0.15209999680519104,
               0.07959999889135361
             ],
@@ -4921,7 +4889,7 @@
             "shows": "",
             "rect": [
               0.3905999958515167,
-              0.8518999814987183,
+              0.8528000116348267,
               0.05620000138878822,
               0.046300001442432404
             ],
@@ -5602,43 +5570,43 @@
       "seen": 1
     },
     {
-      "text": "Screen \"BuyPanelRef\" (screen): 14 elements, matched its mockup 90%.",
+      "text": "Screen \"BuyPanelRef\" (screen): 14 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"eliminated\" (screen): 8 elements, matched its mockup 75%.",
+      "text": "Screen \"eliminated\" (screen): 8 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"env selc\" (screen): 18 elements, matched its mockup 90%.",
+      "text": "Screen \"env selc\" (screen): 18 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"hostage\" (screen): 7 elements, matched its mockup 90%.",
+      "text": "Screen \"hostage\" (screen): 7 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"hud\" (screen): 16 elements, matched its mockup 92%.",
+      "text": "Screen \"hud\" (screen): 16 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"no internet\" (popup): 6 elements, matched its mockup 97%.",
+      "text": "Screen \"no internet\" (popup): 6 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"privacy\" (popup): 8 elements, matched its mockup 95%.",
+      "text": "Screen \"privacy\" (popup): 8 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"revive\" (popup): 9 elements, matched its mockup 89%.",
+      "text": "Screen \"revive\" (popup): 9 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"settinng\" (popup): 35 elements, matched its mockup 93%.",
+      "text": "Screen \"settinng\" (popup): 35 elements.",
       "seen": 1
     },
     {
-      "text": "Screen \"shop\" (screen): 50 elements, matched its mockup 95%.",
+      "text": "Screen \"shop\" (screen): 50 elements.",
       "seen": 1
     },
     {
