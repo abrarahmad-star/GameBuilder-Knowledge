@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "project": "Relay Test",
+  "updated": "2026-11-18",
+  "sprites": [
+    {
+      "hash": "test0001",
+      "w": 10,
+      "h": 10,
+      "name": "btn_test",
+      "role": "button"
+    }
+  ],
+  "panels": [],
+  "screens": []
+}
