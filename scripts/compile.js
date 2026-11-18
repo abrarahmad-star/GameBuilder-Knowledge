@@ -52,7 +52,7 @@ for (const id of projects) {
     vote(e.kinds, s.kind);
     add(e.projects, id);
     // The most recent project's version of the screen is its template.
-    if ((k.updated || "") >= e.latest) { e.latest = k.updated || ""; e.template = { from: id, size: s.size, dim: s.dim, elements: s.elements || [] }; }
+    if ((k.updated || "") >= e.latest) { e.latest = k.updated || ""; e.template = { from: id, size: s.size, dim: s.dim, background: s.background || null, showOnStart: !!s.showOnStart, elements: s.elements || [] }; }
     screens.set(sk, e);
   }
 
