@@ -16,8 +16,8 @@ What UI Builder learned in this project (2026-11-18).
 - Panel "port" (717×594) was used on: unlock env.
 - Panel "settong popup" (1387×819) was used on: settinng.
 - Screen "BuyPanelRef" (screen): 14 elements, matched its mockup 92%.
-- Screen "eliminated" (screen): 6 elements, matched its mockup 75%.
-- Screen "env selc" (screen): 16 elements, matched its mockup 90%.
+- Screen "eliminated" (screen): 8 elements, matched its mockup 75%.
+- Screen "env selc" (screen): 18 elements, matched its mockup 92%.
 - Screen "hostage" (screen): 7 elements, matched its mockup 92%.
 - Screen "hud" (hud): 16 elements, matched its mockup 93%.
 - Screen "image (5)" (screen): 14 elements, matched its mockup 92%.
