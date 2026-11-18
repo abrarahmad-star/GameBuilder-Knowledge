@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T10:51:21.744Z",
+  "built": "2026-11-18T10:52:09.680Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -5546,26 +5546,6 @@
   ],
   "notes": [
     {
-      "text": "In this project the Preview box number equals the sprite suffix (atlas-1_N = list index N), but some price/amount labels were sliced together (atlas-1_14 \"$12.99 $6.99 $0.99\", atlas-1_3 \"+10+500\", atlas-1_40 \"+100 +500 +100\", atlas-1_35 \"TOP VALUE + BEST SELLER\", \"$3.99/REMOVE ADS\" spread over atlas-1_43/44/46). The shop layout uses TMP text for these instead; split them in Step 1 if exact art is wanted.",
-      "seen": 1
-    },
-    {
-      "text": "BuyPanelRef: \"NEW\" and \"ITEM\" are two sprites (atlas-2_15, atlas-2_16), so place them as two images. The toaster item in the mockup is in no atlas (props atlas has 16 other props), so the card has no item image; the BuyPanelBG glow stands in its place.",
-      "seen": 1
-    },
-    {
-      "text": "eliminated: the hooded avatar, the skull counter icon and the yellow starburst behind the banner are not in the atlases. Stand-ins: atlas-2_14 dark circle (avatar), atlas-1_12 target bar (counter), and the banner without its burst.",
-      "seen": 1
-    },
-    {
-      "text": "Settings: atlas-2_0 (HD) already has its dark rounded square behind it, so it needs no separate icon_bg. atlas-2_7 is the small dark square used behind the music/sound/sensitivity icons.",
-      "seen": 1
-    },
-    {
-      "text": "Panels used again in project 2: no internet → No Internet popup, policy → privacy, settong popup → settinng, panel props + BuyPanelBG → BuyPanelRef, port → unlock env TV screen. market, glitch and dummy logo were left unused.",
-      "seen": 1
-    },
-    {
       "text": "Panel \"BuyPanelBG\" (512×492) was used on: BuyPanelRef.",
       "seen": 1
     },
@@ -5614,7 +5594,7 @@
       "seen": 1
     },
     {
-      "text": "Screen \"privacy\" (popup): 8 elements, matched its mockup 96%.",
+      "text": "Screen \"privacy\" (popup): 8 elements, matched its mockup 95%.",
       "seen": 1
     },
     {
