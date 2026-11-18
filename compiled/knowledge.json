@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T10:37:33.267Z",
+  "built": "2026-11-18T10:38:00.232Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -965,6 +965,8 @@
           288
         ],
         "dim": 0,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "cash_box",
@@ -1317,6 +1319,8 @@
           941
         ],
         "dim": 0,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "avatar",
@@ -1525,6 +1529,8 @@
           1080
         ],
         "dim": 0,
+        "background": "env-selc-bg",
+        "showOnStart": false,
         "elements": [
           {
             "id": "btn_back",
@@ -1973,6 +1979,8 @@
           1080
         ],
         "dim": 0,
+        "background": "hostage-hit-bg",
+        "showOnStart": false,
         "elements": [
           {
             "id": "title",
@@ -2157,6 +2165,8 @@
           1080
         ],
         "dim": 0,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "btn_env",
@@ -2557,6 +2567,8 @@
           1080
         ],
         "dim": 0.6000000238418579,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "frame",
@@ -2717,6 +2729,8 @@
           1080
         ],
         "dim": 0.6000000238418579,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "frame",
@@ -2925,6 +2939,8 @@
           1080
         ],
         "dim": 0.30000001192092896,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "circle",
@@ -3157,6 +3173,8 @@
           1080
         ],
         "dim": 0.6000000238418579,
+        "background": null,
+        "showOnStart": false,
         "elements": [
           {
             "id": "dialog",
@@ -4013,6 +4031,8 @@
           1080
         ],
         "dim": 0,
+        "background": "shop-bg",
+        "showOnStart": false,
         "elements": [
           {
             "id": "btn_back",
@@ -5229,6 +5249,8 @@
           1080
         ],
         "dim": 0,
+        "background": "env-unlock-bg 1920x1080",
+        "showOnStart": false,
         "elements": [
           {
             "id": "screen_picture",
