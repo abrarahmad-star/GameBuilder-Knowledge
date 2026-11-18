@@ -2,8 +2,8 @@
   "schema": 1,
   "project": "Tool Testing",
   "id": "tool-testing-6e7a",
-  "updated": "2026-11-18T11:25:01.2277282Z",
-  "uiBuilder": "0.14.1",
+  "updated": "2026-11-18T12:40:43.5685610Z",
+  "uiBuilder": "0.15.0",
   "built": "",
   "projects": [],
   "sprites": [
@@ -53,11 +53,11 @@
       "seen": 0
     },
     {
-      "hash": "668947ac45665b26",
+      "hash": "668b579c55445926",
       "name": "atlas-1_3",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-1",
-      "w": 110,
+      "w": 111,
       "h": 61,
       "border": [
         0,
@@ -460,14 +460,14 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-1_30",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-1",
       "w": 358,
       "h": 117,
       "border": [
         13,
         31,
-        109,
+        13,
         13
       ],
       "seen": 0
@@ -475,7 +475,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-1_31",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-1",
       "w": 289,
       "h": 85,
@@ -743,11 +743,11 @@
       "seen": 0
     },
     {
-      "hash": "4a9535caca28352a",
+      "hash": "4a9535cacaa8352a",
       "name": "atlas-1_3b",
       "role": "image",
       "atlas": "atlas-1",
-      "w": 118,
+      "w": 117,
       "h": 48,
       "border": [
         0,
@@ -758,27 +758,12 @@
       "seen": 0
     },
     {
-      "hash": "802c45a250905500",
-      "name": "atlas-1_14b",
+      "hash": "aa1004a82489542b",
+      "name": "atlas-1_43b",
       "role": "image",
       "atlas": "atlas-1",
-      "w": 113,
-      "h": 50,
-      "border": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "seen": 0
-    },
-    {
-      "hash": "802c4970a051a200",
-      "name": "atlas-1_14bb",
-      "role": "image",
-      "atlas": "atlas-1",
-      "w": 116,
-      "h": 55,
+      "w": 275,
+      "h": 47,
       "border": [
         0,
         0,
@@ -818,11 +803,41 @@
       "seen": 0
     },
     {
-      "hash": "6a95454e4a45952a",
-      "name": "atlas-1_40b",
+      "hash": "802c45a250905500",
+      "name": "atlas-1_14b",
       "role": "image",
       "atlas": "atlas-1",
-      "w": 115,
+      "w": 113,
+      "h": 50,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "seen": 0
+    },
+    {
+      "hash": "802c4970a051a200",
+      "name": "atlas-1_14bb",
+      "role": "image",
+      "atlas": "atlas-1",
+      "w": 116,
+      "h": 55,
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "seen": 0
+    },
+    {
+      "hash": "6a95544c4844952a",
+      "name": "atlas-1_40b",
+      "role": "",
+      "atlas": "atlas-1",
+      "w": 113,
       "h": 43,
       "border": [
         0,
@@ -833,42 +848,12 @@
       "seen": 0
     },
     {
-      "hash": "2a95454e4a44856a",
+      "hash": "2a9595082888952a",
       "name": "atlas-1_40bb",
       "role": "",
       "atlas": "atlas-1",
-      "w": 106,
+      "w": 114,
       "h": 43,
-      "border": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "seen": 0
-    },
-    {
-      "hash": "aa1004a82489542b",
-      "name": "atlas-1_43b",
-      "role": "image",
-      "atlas": "atlas-1",
-      "w": 275,
-      "h": 47,
-      "border": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "seen": 0
-    },
-    {
-      "hash": "0000000000000000",
-      "name": "atlas-1_52",
-      "role": "image",
-      "atlas": "atlas-1",
-      "w": 128,
-      "h": 61,
       "border": [
         0,
         0,
@@ -1225,7 +1210,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_24",
-      "role": "slider",
+      "role": "",
       "atlas": "atlas-2",
       "w": 1023,
       "h": 32,
@@ -1240,7 +1225,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_25",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 1023,
       "h": 34,
@@ -1255,7 +1240,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_26",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 1023,
       "h": 114,
@@ -1315,7 +1300,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_30",
-      "role": "image",
+      "role": "",
       "atlas": "atlas-2",
       "w": 296,
       "h": 91,
@@ -1405,7 +1390,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_36",
-      "role": "toggle",
+      "role": "",
       "atlas": "atlas-2",
       "w": 296,
       "h": 91,
@@ -1485,7 +1470,7 @@
       "w": 881,
       "h": 35,
       "border": [
-        173,
+        17,
         0,
         17,
         0
@@ -1500,7 +1485,7 @@
       "w": 891,
       "h": 45,
       "border": [
-        167,
+        22,
         0,
         22,
         0
@@ -1585,13 +1570,13 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_48",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 494,
       "h": 164,
       "border": [
         26,
-        51,
+        50,
         26,
         26
       ],
@@ -1660,13 +1645,13 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_53",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 494,
       "h": 164,
       "border": [
         26,
-        49,
+        50,
         26,
         26
       ],
@@ -1675,7 +1660,7 @@
     {
       "hash": "0000000000000000",
       "name": "atlas-2_54",
-      "role": "button",
+      "role": "",
       "atlas": "atlas-2",
       "w": 435,
       "h": 146,
@@ -2013,7 +1998,7 @@
         288
       ],
       "dim": 0,
-      "match": 0.9176468253135681,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2021,7 +2006,7 @@
           "id": "cash_box",
           "role": "image",
           "parent": "",
-          "sprite": "atlas-1_52",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -2249,7 +2234,7 @@
           "rect": [
             0.6913999915122986,
             0.7465000152587891,
-            0.03319999948143959,
+            0.03519999980926514,
             0.04859999939799309
           ],
           "on": false,
@@ -2285,7 +2270,7 @@
           "id": "card_btn_buy",
           "role": "button",
           "parent": "card",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
@@ -2373,7 +2358,7 @@
         941
       ],
       "dim": 0,
-      "match": 0.7533017992973328,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2429,7 +2414,7 @@
           "id": "cash_box",
           "role": "image",
           "parent": "",
-          "sprite": "atlas-1_52",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -2589,7 +2574,7 @@
         1080
       ],
       "dim": 0,
-      "match": 0.9457535743713379,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2645,7 +2630,7 @@
           "id": "cash_box",
           "role": "image",
           "parent": "",
-          "sprite": "atlas-1_52",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -2799,10 +2784,10 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.3723999857902527,
-            0.2176000028848648,
-            0.2630000114440918,
-            0.666700005531311
+            0.3707999885082245,
+            0.21480000019073486,
+            0.26460000872612,
+            0.6712999939918518
           ],
           "on": false,
           "sliced": false,
@@ -2921,8 +2906,8 @@
           "rect": [
             0.6625000238418579,
             0.21480000019073486,
-            0.26460000872612,
-            0.6712999939918518
+            0.2660999894142151,
+            0.675000011920929
           ],
           "on": false,
           "sliced": false,
@@ -3045,7 +3030,7 @@
         1080
       ],
       "dim": 0,
-      "match": 0.9230101108551025,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3101,7 +3086,7 @@
           "id": "btn_restart",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_48",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -3149,7 +3134,7 @@
           "id": "btn_skip",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_53",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
@@ -3237,7 +3222,7 @@
         1080
       ],
       "dim": 0,
-      "match": 0.9279922246932983,
+      "match": -1,
       "showOnStart": true,
       "seen": 0,
       "elements": [
@@ -3353,8 +3338,8 @@
           "rect": [
             0.7218999862670898,
             0.04809999838471413,
-            0.11670000106096268,
-            0.07779999822378159
+            0.11720000207424164,
+            0.0786999985575676
           ],
           "on": false,
           "sliced": false,
@@ -3645,7 +3630,7 @@
         1080
       ],
       "dim": 0.6000000238418579,
-      "match": 0.9769505858421326,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3749,7 +3734,7 @@
           "id": "frame_btn_try",
           "role": "button",
           "parent": "frame",
-          "sprite": "atlas-2_54",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
@@ -3759,10 +3744,10 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.41040000319480896,
-            0.6518999934196472,
-            0.20419999957084656,
-            0.12219999730587006
+            0.4083000123500824,
+            0.6629999876022339,
+            0.20469999313354492,
+            0.10740000009536743
           ],
           "on": false,
           "sliced": false,
@@ -3813,7 +3798,7 @@
         1080
       ],
       "dim": 0.6000000238418579,
-      "match": 0.9614567160606384,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3941,7 +3926,7 @@
           "id": "frame_btn_accept",
           "role": "button",
           "parent": "frame",
-          "sprite": "atlas-2_54",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
@@ -3951,10 +3936,10 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.3978999853134155,
-            0.6963000297546387,
-            0.22759999334812164,
-            0.13609999418258667
+            0.39579999446868896,
+            0.7110999822616577,
+            0.2281000018119812,
+            0.11940000206232071
           ],
           "on": false,
           "sliced": false,
@@ -4029,7 +4014,7 @@
         1080
       ],
       "dim": 0.30000001192092896,
-      "match": 0.8988561034202576,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -4181,7 +4166,7 @@
           "id": "btn_yes",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_54",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
@@ -4191,10 +4176,10 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.38119998574256897,
+            0.35830000042915344,
             0.7221999764442444,
-            0.20829999446868896,
-            0.12409999966621399
+            0.2312999963760376,
+            0.12129999697208405
           ],
           "on": false,
           "sliced": false,
@@ -4269,7 +4254,7 @@
         1080
       ],
       "dim": 0.6000000238418579,
-      "match": 0.9687030911445618,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -4421,7 +4406,7 @@
           "id": "dialog_music",
           "role": "slider",
           "parent": "dialog",
-          "sprite": "atlas-2_24",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4445,7 +4430,7 @@
           "id": "dialog_music_fill",
           "role": "image",
           "parent": "dialog_music",
-          "sprite": "atlas-2_25",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4565,7 +4550,7 @@
           "id": "dialog_sound",
           "role": "slider",
           "parent": "dialog",
-          "sprite": "atlas-2_24",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4589,7 +4574,7 @@
           "id": "dialog_sound_fill",
           "role": "image",
           "parent": "dialog_sound",
-          "sprite": "atlas-2_25",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4709,7 +4694,7 @@
           "id": "dialog_sensitivity",
           "role": "slider",
           "parent": "dialog",
-          "sprite": "atlas-2_24",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4733,7 +4718,7 @@
           "id": "dialog_sensitivity_fill",
           "role": "image",
           "parent": "dialog_sensitivity",
-          "sprite": "atlas-2_25",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4853,7 +4838,7 @@
           "id": "dialog_quality_bg",
           "role": "image",
           "parent": "dialog",
-          "sprite": "atlas-2_26",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4901,7 +4886,7 @@
           "id": "dialog_quality_low",
           "role": "toggle",
           "parent": "dialog_quality",
-          "sprite": "atlas-2_36",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4925,7 +4910,7 @@
           "id": "dialog_quality_low_on",
           "role": "image",
           "parent": "dialog_quality_low",
-          "sprite": "atlas-2_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4973,7 +4958,7 @@
           "id": "dialog_quality_medium",
           "role": "toggle",
           "parent": "dialog_quality",
-          "sprite": "atlas-2_36",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -4997,7 +4982,7 @@
           "id": "dialog_quality_medium_on",
           "role": "image",
           "parent": "dialog_quality_medium",
-          "sprite": "atlas-2_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5045,7 +5030,7 @@
           "id": "dialog_quality_high",
           "role": "toggle",
           "parent": "dialog_quality",
-          "sprite": "atlas-2_36",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5069,7 +5054,7 @@
           "id": "dialog_quality_high_on",
           "role": "image",
           "parent": "dialog_quality_high",
-          "sprite": "atlas-2_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5133,7 +5118,7 @@
         1080
       ],
       "dim": 0,
-      "match": 0.9776390790939331,
+      "match": -1,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -5189,7 +5174,7 @@
           "id": "cash_box",
           "role": "image",
           "parent": "",
-          "sprite": "atlas-1_52",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5199,10 +5184,10 @@
           "opens": "",
           "shows": "",
           "rect": [
-            0.8802000284194946,
-            0.052799999713897705,
-            0.09790000319480896,
-            0.05739999935030937
+            0.8531000018119812,
+            0.04170000180602074,
+            0.15209999680519104,
+            0.07959999889135361
           ],
           "on": false,
           "sliced": false,
@@ -5321,7 +5306,7 @@
           "rect": [
             0.0478999987244606,
             0.28519999980926514,
-            0.06199999898672104,
+            0.0625,
             0.06759999692440033
           ],
           "on": false,
@@ -5357,7 +5342,7 @@
           "id": "card_noads_btn_buy",
           "role": "button",
           "parent": "card_noads",
-          "sprite": "atlas-1_30",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
@@ -5367,10 +5352,10 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.07500000298023224,
-            0.781499981880188,
-            0.18230000138282776,
-            0.10559999942779541
+            0.09009999781847,
+            0.7944999933242798,
+            0.15209999680519104,
+            0.07959999889135361
           ],
           "on": false,
           "sliced": false,
@@ -5391,10 +5376,10 @@
           "opens": "",
           "shows": "",
           "rect": [
-            0.12290000170469284,
+            0.12399999797344208,
             0.7907000184059143,
-            0.09269999712705612,
-            0.06300000101327896
+            0.09220000356435776,
+            0.06199999898672104
           ],
           "on": false,
           "sliced": false,
@@ -5477,8 +5462,8 @@
           "id": "card_bonus_amount",
           "role": "image",
           "parent": "card_bonus",
-          "sprite": "atlas-1_3",
-          "hash": "668947ac45665b26",
+          "sprite": "",
+          "hash": "",
           "text": "",
           "anim": "",
           "sound": "",
@@ -5562,7 +5547,7 @@
             0.40310001373291016,
             0.45829999446868896,
             0.04899999871850014,
-            0.03700000047683716
+            0.03799999877810478
           ],
           "on": false,
           "sliced": false,
@@ -5669,7 +5654,7 @@
           "id": "card_100_btn_buy",
           "role": "button",
           "parent": "card_100",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5679,7 +5664,7 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.5406000018119812,
+            0.5385000109672546,
             0.4406999945640564,
             0.15209999680519104,
             0.07959999889135361
@@ -5777,7 +5762,7 @@
           "rect": [
             0.7953000068664551,
             0.2046000063419342,
-            0.06459999829530716,
+            0.0640999972820282,
             0.039799999445676804
           ],
           "on": false,
@@ -5813,7 +5798,7 @@
           "id": "card_1100_btn_buy",
           "role": "button",
           "parent": "card_1100",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5823,7 +5808,7 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.7405999898910522,
+            0.7384999990463257,
             0.4406999945640564,
             0.15209999680519104,
             0.07959999889135361
@@ -5872,7 +5857,7 @@
           "shows": "",
           "rect": [
             0.3312999904155731,
-            0.5454000234603882,
+            0.5443999767303467,
             0.1729000061750412,
             0.3407000005245209
           ],
@@ -5934,7 +5919,7 @@
           "role": "image",
           "parent": "card_mini",
           "sprite": "atlas-1_3b",
-          "hash": "4a9535caca28352a",
+          "hash": "4a9535cacaa8352a",
           "text": "",
           "anim": "",
           "sound": "",
@@ -5943,9 +5928,9 @@
           "opens": "",
           "shows": "",
           "rect": [
-            0.4348999857902527,
+            0.43540000915527344,
             0.7925999760627747,
-            0.0608999989926815,
+            0.06040000170469284,
             0.04439999908208847
           ],
           "on": false,
@@ -5957,7 +5942,7 @@
           "id": "card_mini_btn_buy",
           "role": "button",
           "parent": "card_mini",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -5968,7 +5953,7 @@
           "shows": "",
           "rect": [
             0.34060001373291016,
-            0.8425999879837036,
+            0.8406999707221985,
             0.15209999680519104,
             0.07959999889135361
           ],
@@ -6053,8 +6038,8 @@
           "id": "card_500_title",
           "role": "image",
           "parent": "card_500",
-          "sprite": "atlas-1_40b",
-          "hash": "6a95454e4a45952a",
+          "sprite": "atlas-1_40",
+          "hash": "2a95454e4a44856a",
           "text": "",
           "anim": "",
           "sound": "",
@@ -6063,9 +6048,9 @@
           "opens": "",
           "shows": "",
           "rect": [
-            0.5964000225067139,
-            0.6055999994277954,
-            0.05939999967813492,
+            0.5978999733924866,
+            0.6036999821662903,
+            0.05570000037550926,
             0.039799999445676804
           ],
           "on": false,
@@ -6125,7 +6110,7 @@
           "id": "card_500_btn_buy",
           "role": "button",
           "parent": "card_500",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -6135,8 +6120,8 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.5406000018119812,
-            0.8425999879837036,
+            0.5385000109672546,
+            0.8406999707221985,
             0.15209999680519104,
             0.07959999889135361
           ],
@@ -6293,7 +6278,7 @@
           "id": "card_2750_btn_buy",
           "role": "button",
           "parent": "card_2750",
-          "sprite": "atlas-1_31",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "",
@@ -6303,8 +6288,8 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.7405999898910522,
-            0.8425999879837036,
+            0.7384999990463257,
+            0.8406999707221985,
             0.15209999680519104,
             0.07959999889135361
           ],
@@ -6357,7 +6342,7 @@
         1080
       ],
       "dim": 0,
-      "match": 0.9684835076332092,
+      "match": 0.9640592932701111,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -6605,7 +6590,7 @@
           "id": "btn_continue",
           "role": "button",
           "parent": "",
-          "sprite": "atlas-2_53",
+          "sprite": "atlas-1_29",
           "hash": "0000000000000000",
           "text": "",
           "anim": "Pulse",
