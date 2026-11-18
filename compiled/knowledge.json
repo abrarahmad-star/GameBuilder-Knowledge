@@ -1,9 +1,4564 @@
 {
   "schema": 1,
-  "built": "2026-11-18T07:40:06.462Z",
-  "projects": [],
-  "sprites": [],
-  "panels": [],
-  "screens": [],
-  "notes": []
+  "built": "2026-11-18T09:14:17.729Z",
+  "projects": [
+    "tool-testing-6e7a"
+  ],
+  "sprites": [
+    {
+      "hash": "004040a020206000",
+      "w": 269,
+      "h": 81,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "6896a8736badb228",
+      "w": 53,
+      "h": 53,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "9445c362c05b6580",
+      "w": 131,
+      "h": 55,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "668947ac45665b26",
+      "w": 110,
+      "h": 61,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "8001212020200180",
+      "w": 55,
+      "h": 44,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "44802f0b2a258844",
+      "w": 259,
+      "h": 259,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "0101010101010101",
+      "w": 566,
+      "h": 775,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "40ac222b154d9640",
+      "w": 211,
+      "h": 211,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "0641808080804106",
+      "w": 205,
+      "h": 205,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "800a451a50505500",
+      "w": 111,
+      "h": 51,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "48a0a09555a55008",
+      "w": 95,
+      "h": 41,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "802c459250d05500",
+      "w": 109,
+      "h": 50,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "808060a0a0a0c080",
+      "w": 226,
+      "h": 85,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "c08189bb4d524698",
+      "w": 114,
+      "h": 112,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0000495ae8282900",
+      "w": 127,
+      "h": 50,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0808040202040808",
+      "w": 34,
+      "h": 33,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "50500c0a0a0a2800",
+      "w": 191,
+      "h": 32,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "286a336b764a5428",
+      "w": 240,
+      "h": 196,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "20d0a8b85a452a08",
+      "w": 225,
+      "h": 177,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "10b88c766e362a08",
+      "w": 209,
+      "h": 178,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "8000000000000001",
+      "w": 185,
+      "h": 107,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "862a632da6662c14",
+      "w": 136,
+      "h": 88,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "44800564560f8244",
+      "w": 259,
+      "h": 259,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "9000004412000000",
+      "w": 467,
+      "h": 563,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "308c2a6bad161e08",
+      "w": 217,
+      "h": 178,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "40ac94d83c4c7260",
+      "w": 241,
+      "h": 195,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "20820002026a0028",
+      "w": 333,
+      "h": 369,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0816abcf6d954038",
+      "w": 279,
+      "h": 194,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "00805222241a0004",
+      "w": 476,
+      "h": 832,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0000000000000000",
+      "w": 289,
+      "h": 85,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "0010a588954b4b3f",
+      "w": 514,
+      "h": 734,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "008b0e0c14952ab8",
+      "w": 514,
+      "h": 734,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "00ba7f6f6a2bc959",
+      "w": 514,
+      "h": 734,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "1533d212260cb583",
+      "w": 84,
+      "h": 57,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "80e0554549523870",
+      "w": 1080,
+      "h": 177,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "1a85454a4ac0a55a",
+      "w": 124,
+      "h": 43,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "1359062426149981",
+      "w": 119,
+      "h": 73,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "22494480a4b22004",
+      "w": 224,
+      "h": 39,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "2a95454e4a44856a",
+      "w": 106,
+      "h": 43,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "8d08484a47444402",
+      "w": 198,
+      "h": 39,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "22c5405090505900",
+      "w": 177,
+      "h": 67,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "2045416969411408",
+      "w": 646,
+      "h": 69,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0180000080808000",
+      "w": 1551,
+      "h": 152,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "20a818366d452a08",
+      "w": 59,
+      "h": 55,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "218c928b48a48102",
+      "w": 314,
+      "h": 34,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0a3511090888148a",
+      "w": 251,
+      "h": 98,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "3048880000004828",
+      "w": 111,
+      "h": 88,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "4a9535caca28352a",
+      "w": 118,
+      "h": 48,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "802c45a250905500",
+      "w": 113,
+      "h": 50,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "802c4970a051a200",
+      "w": 116,
+      "h": 55,
+      "name": "atlas-1_14bb",
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "153302020c089383",
+      "w": 84,
+      "h": 57,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "52ad006844848150",
+      "w": 128,
+      "h": 43,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "6a95454e4a45952a",
+      "w": 115,
+      "h": 43,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "2a9545464644856a",
+      "w": 105,
+      "h": 43,
+      "name": "atlas-1_40bb",
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "aa1004a82489542b",
+      "w": 275,
+      "h": 47,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "8000412121410080",
+      "w": 134,
+      "h": 116,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "4082010103019640",
+      "w": 667,
+      "h": 667,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "4c822148a04c2a04",
+      "w": 213,
+      "h": 127,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "2a4180000080412a",
+      "w": 657,
+      "h": 657,
+      "name": null,
+      "role": "timer",
+      "seen": 1
+    },
+    {
+      "hash": "2011101010060000",
+      "w": 65,
+      "h": 72,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "9601010101240410",
+      "w": 81,
+      "h": 85,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "08090a0a0a0a0908",
+      "w": 75,
+      "h": 72,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "8000000000000080",
+      "w": 112,
+      "h": 97,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0001010103020206",
+      "w": 62,
+      "h": 112,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "4880000000008048",
+      "w": 265,
+      "h": 265,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "01010148c828c040",
+      "w": 86,
+      "h": 81,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "080c040602030118",
+      "w": 23,
+      "h": 82,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0101010204081810",
+      "w": 68,
+      "h": 54,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "082a440808492a08",
+      "w": 103,
+      "h": 103,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "6882010000018268",
+      "w": 157,
+      "h": 157,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "0400101818101008",
+      "w": 274,
+      "h": 56,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "604c5b1b55d25428",
+      "w": 58,
+      "h": 53,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "082a450808492a08",
+      "w": 103,
+      "h": 103,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "206898587d492a08",
+      "w": 49,
+      "h": 46,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "c4c6808080801b01",
+      "w": 158,
+      "h": 71,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "c001212121210182",
+      "w": 49,
+      "h": 38,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "42494f5595566401",
+      "w": 317,
+      "h": 201,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "440301010101034c",
+      "w": 141,
+      "h": 141,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "086d25254d299010",
+      "w": 349,
+      "h": 221,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "14038d4797262040",
+      "w": 149,
+      "h": 161,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "c001012512121501",
+      "w": 108,
+      "h": 68,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "2084012929118420",
+      "w": 67,
+      "h": 75,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "1244444444440486",
+      "w": 398,
+      "h": 79,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "00706b0d2713ab27",
+      "w": 126,
+      "h": 94,
+      "name": null,
+      "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "8001010000000003",
+      "w": 81,
+      "h": 88,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "94282ccccccc2896",
+      "w": 382,
+      "h": 57,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "14178d4f8f262a40",
+      "w": 149,
+      "h": 149,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "04a2aaad256b6140",
+      "w": 289,
+      "h": 229,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0000004120412014",
+      "w": 359,
+      "h": 69,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "1028542a2e4c694c",
+      "w": 286,
+      "h": 244,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "2012a13032493408",
+      "w": 265,
+      "h": 220,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0020824848504000",
+      "w": 871,
+      "h": 317,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "80804040a0208140",
+      "w": 285,
+      "h": 108,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0861404a48520006",
+      "w": 327,
+      "h": 86,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "7091c5b1aa506810",
+      "w": 122,
+      "h": 139,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0220444404040490",
+      "w": 569,
+      "h": 103,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "0400000101010201",
+      "w": 989,
+      "h": 189,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "4c8ccd4e45ae1808",
+      "w": 208,
+      "h": 260,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "e95249cfb5560e07",
+      "w": 163,
+      "h": 304,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "08314eaa74404000",
+      "w": 199,
+      "h": 296,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "461e4e0f55173908",
+      "w": 215,
+      "h": 258,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "26831365ec05090e",
+      "w": 202,
+      "h": 235,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "20a23a9b2225360c",
+      "w": 345,
+      "h": 241,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "2048632828cedc02",
+      "w": 319,
+      "h": 211,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "69968a2fb6b2b322",
+      "w": 208,
+      "h": 261,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "b644a5d2065a01dd",
+      "w": 193,
+      "h": 230,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "50dc2c63f9693d0f",
+      "w": 270,
+      "h": 224,
+      "name": null,
+      "role": "image",
+      "seen": 1
+    },
+    {
+      "hash": "70cc86838bea4322",
+      "w": 221,
+      "h": 220,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "70aa551e33270e34",
+      "w": 340,
+      "h": 219,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "c010b8385ce22100",
+      "w": 337,
+      "h": 151,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "0c0d99bba72c3000",
+      "w": 193,
+      "h": 283,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "20c0909814060301",
+      "w": 239,
+      "h": 259,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "70c4c2834228b430",
+      "w": 195,
+      "h": 243,
+      "name": null,
+      "role": null,
+      "seen": 1
+    }
+  ],
+  "panels": [
+    {
+      "hash": "140f0f0f0f0f0f16",
+      "w": 512,
+      "h": 492,
+      "file": "BuyPanelBG",
+      "screen": "BuyPanelRef, image (5)",
+      "seen": 1
+    },
+    {
+      "hash": "03c1a1599a935658",
+      "w": 546,
+      "h": 278,
+      "file": "dummy logo",
+      "screen": null,
+      "seen": 1
+    },
+    {
+      "hash": "c9c1748055c68ba1",
+      "w": 717,
+      "h": 594,
+      "file": "glitch",
+      "screen": null,
+      "seen": 1
+    },
+    {
+      "hash": "35f57a51a4f697b2",
+      "w": 717,
+      "h": 594,
+      "file": "market",
+      "screen": null,
+      "seen": 1
+    },
+    {
+      "hash": "0000000000000001",
+      "w": 905,
+      "h": 566,
+      "file": "no internet",
+      "screen": "no internet",
+      "seen": 1
+    },
+    {
+      "hash": "0000000000018205",
+      "w": 614,
+      "h": 634,
+      "file": "panel props",
+      "screen": "BuyPanelRef, image (5)",
+      "seen": 1
+    },
+    {
+      "hash": "0000000000000003",
+      "w": 1161,
+      "h": 678,
+      "file": "policy",
+      "screen": "privacy",
+      "seen": 1
+    },
+    {
+      "hash": "59922752c9456592",
+      "w": 717,
+      "h": 594,
+      "file": "port",
+      "screen": "unlock env",
+      "seen": 1
+    },
+    {
+      "hash": "0000000000000002",
+      "w": 1387,
+      "h": 819,
+      "file": "settong popup",
+      "screen": "settinng",
+      "seen": 1
+    }
+  ],
+  "screens": [
+    {
+      "key": "buypanelref",
+      "name": "BuyPanelRef",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          512,
+          288
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "cash_box",
+            "role": "image",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8945000171661377,
+              0.04170000180602074,
+              0.10159999877214432,
+              0.09030000120401382
+            ]
+          },
+          {
+            "id": "cash_icon",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.888700008392334,
+              0.045099999755620956,
+              0.04879999905824661,
+              0.07639999687671661
+            ]
+          },
+          {
+            "id": "cash_amount",
+            "role": "text",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "0",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.9531000256538391,
+              0.05209999904036522,
+              0.02930000051856041,
+              0.0625
+            ]
+          },
+          {
+            "id": "card",
+            "role": "panel",
+            "parent": "",
+            "sprite": "panel props",
+            "hash": "0000000000018205",
+            "text": "",
+            "anim": "SlideLeft",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6718999743461609,
+              0.2639000117778778,
+              0.32420000433921814,
+              0.5694000124931335
+            ]
+          },
+          {
+            "id": "card_title",
+            "role": "image",
+            "parent": "card",
+            "sprite": "atlas-2_15",
+            "hash": "0400101818101008",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.75,
+              0.3021000027656555,
+              0.1445000022649765,
+              0.05209999904036522
+            ]
+          },
+          {
+            "id": "card_glow",
+            "role": "image",
+            "parent": "card",
+            "sprite": "BuyPanelBG",
+            "hash": "140f0f0f0f0f0f16",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7265999913215637,
+              0.3368000090122223,
+              0.21480000019073486,
+              0.3646000027656555
+            ]
+          },
+          {
+            "id": "card_item",
+            "role": "image",
+            "parent": "card",
+            "sprite": "props_9",
+            "hash": "50dc2c63f9693d0f",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7577999830245972,
+              0.3993000090122223,
+              0.14650000631809235,
+              0.19099999964237213
+            ]
+          },
+          {
+            "id": "card_question",
+            "role": "text",
+            "parent": "card",
+            "sprite": "",
+            "hash": "",
+            "text": "Want to unlock it ?",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7324000000953674,
+              0.645799994468689,
+              0.20509999990463257,
+              0.04859999939799309
+            ]
+          },
+          {
+            "id": "card_btn_free",
+            "role": "button",
+            "parent": "card",
+            "sprite": "atlas-2_49",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6776999831199646,
+              0.729200005531311,
+              0.14839999377727509,
+              0.09030000120401382
+            ]
+          },
+          {
+            "id": "card_btn_free_icon",
+            "role": "image",
+            "parent": "card_btn_free",
+            "sprite": "atlas-2_21",
+            "hash": "c001212121210182",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6913999915122986,
+              0.7465000152587891,
+              0.03519999980926514,
+              0.04859999939799309
+            ]
+          },
+          {
+            "id": "card_btn_free_label",
+            "role": "text",
+            "parent": "card_btn_free",
+            "sprite": "",
+            "hash": "",
+            "text": "FREE",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7383000254631042,
+              0.7396000027656555,
+              0.0625,
+              0.05209999904036522
+            ]
+          },
+          {
+            "id": "card_btn_buy",
+            "role": "button",
+            "parent": "card",
+            "sprite": "atlas-2_50",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8339999914169312,
+              0.729200005531311,
+              0.14839999377727509,
+              0.09030000120401382
+            ]
+          },
+          {
+            "id": "card_btn_buy_icon",
+            "role": "image",
+            "parent": "card_btn_buy",
+            "sprite": "atlas-2_19",
+            "hash": "206898587d492a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8438000082969666,
+              0.7361000180244446,
+              0.0430000014603138,
+              0.05900000035762787
+            ]
+          },
+          {
+            "id": "card_btn_buy_price",
+            "role": "text",
+            "parent": "card_btn_buy",
+            "sprite": "",
+            "hash": "",
+            "text": "3260",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.888700008392334,
+              0.7396000027656555,
+              0.07810000330209732,
+              0.05209999904036522
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "eliminated",
+      "name": "eliminated",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1672,
+          941
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "cash_box",
+            "role": "image",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8282999992370605,
+              0.03400000184774399,
+              0.05979999899864197,
+              0.044599998742341995
+            ]
+          },
+          {
+            "id": "cash_icon",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7925000190734863,
+              0.02979999966919422,
+              0.040699999779462814,
+              0.06159999966621399
+            ]
+          },
+          {
+            "id": "cash_amount",
+            "role": "text",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "90",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8373000025749207,
+              0.03400000184774399,
+              0.04490000009536743,
+              0.044599998742341995
+            ]
+          },
+          {
+            "id": "targets",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_12",
+            "hash": "808060a0a0a0c080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.9000999927520752,
+              0.026599999517202377,
+              0.1046999990940094,
+              0.06379999965429306
+            ]
+          },
+          {
+            "id": "targets_count",
+            "role": "text",
+            "parent": "targets",
+            "sprite": "",
+            "hash": "",
+            "text": "2/6",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.9390000104904175,
+              0.03400000184774399,
+              0.04780000075697899,
+              0.04780000075697899
+            ]
+          },
+          {
+            "id": "banner",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_36",
+            "hash": "80e0554549523870",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.18240000307559967,
+              0.1753000020980835,
+              0.6399999856948853,
+              0.20190000534057617
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "envselc",
+      "name": "env selc",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "btn_back",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_51",
+            "hash": "3048880000004828",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.03440000116825104,
+              0.03889999911189079,
+              0.05779999867081642,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "title",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_45",
+            "hash": "2045416969411408",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3312999904155731,
+              0.05739999935030937,
+              0.3375000059604645,
+              0.06390000134706497
+            ]
+          },
+          {
+            "id": "cash_box",
+            "role": "image",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8802000284194946,
+              0.052799999713897705,
+              0.09790000319480896,
+              0.05739999935030937
+            ]
+          },
+          {
+            "id": "cash_icon",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8489999771118164,
+              0.03700000047683716,
+              0.05209999904036522,
+              0.08330000191926956
+            ]
+          },
+          {
+            "id": "cash_amount",
+            "role": "text",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "100",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.9089000225067139,
+              0.05739999935030937,
+              0.05209999904036522,
+              0.04809999838471413
+            ]
+          },
+          {
+            "id": "card_street_glow",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_6",
+            "hash": "0101010101010101",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.07029999792575836,
+              0.2110999971628189,
+              0.2734000086784363,
+              0.6851999759674072
+            ]
+          },
+          {
+            "id": "card_street",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_34",
+            "hash": "00ba7f6f6a2bc959",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.07500000298023224,
+              0.22220000624656677,
+              0.2660999894142151,
+              0.6758999824523926
+            ]
+          },
+          {
+            "id": "card_street_logo",
+            "role": "image",
+            "parent": "card_street",
+            "sprite": "atlas-2_38",
+            "hash": "04a2aaad256b6140",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.12919999659061432,
+              0.5407000184059143,
+              0.15049999952316284,
+              0.21199999749660492
+            ]
+          },
+          {
+            "id": "card_market",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_33",
+            "hash": "008b0e0c14952ab8",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3723999857902527,
+              0.2176000028848648,
+              0.2630000114440918,
+              0.666700005531311
+            ]
+          },
+          {
+            "id": "card_market_logo",
+            "role": "image",
+            "parent": "card_market",
+            "sprite": "atlas-2_27",
+            "hash": "086d25254d299010",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4083000123500824,
+              0.5480999946594238,
+              0.18389999866485596,
+              0.20649999380111694
+            ]
+          },
+          {
+            "id": "card_market_level",
+            "role": "text",
+            "parent": "card_market",
+            "sprite": "",
+            "hash": "",
+            "text": "Required <mark=#000000AA>Level <color=#FFD21E>05</color></mark>",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4140999913215637,
+              0.766700029373169,
+              0.17970000207424164,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_market_lock",
+            "role": "image",
+            "parent": "card_market",
+            "sprite": "atlas-1_13",
+            "hash": "c08189bb4d524698",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3531000018119812,
+              0.20739999413490295,
+              0.05939999967813492,
+              0.10369999706745148
+            ]
+          },
+          {
+            "id": "card_port",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_32",
+            "hash": "0010a588954b4b3f",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6625000238418579,
+              0.21480000019073486,
+              0.26460000872612,
+              0.6712999939918518
+            ]
+          },
+          {
+            "id": "card_port_logo",
+            "role": "image",
+            "parent": "card_port",
+            "sprite": "atlas-2_22",
+            "hash": "42494f5595566401",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7063000202178955,
+              0.5666999816894531,
+              0.16349999606609344,
+              0.1843000054359436
+            ]
+          },
+          {
+            "id": "card_port_level",
+            "role": "text",
+            "parent": "card_port",
+            "sprite": "",
+            "hash": "",
+            "text": "Required <mark=#000000AA>Level <color=#2ED8FF>10</color></mark>",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7056999802589417,
+              0.7648000121116638,
+              0.17970000207424164,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_port_lock",
+            "role": "image",
+            "parent": "card_port",
+            "sprite": "atlas-1_13",
+            "hash": "c08189bb4d524698",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6427000164985657,
+              0.20739999413490295,
+              0.05889999866485596,
+              0.10279999673366547
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "hostage",
+      "name": "hostage",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "title",
+            "role": "text",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "YOU HIT  A HOSTAGE",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.16410000622272491,
+              0.38429999351501465,
+              0.6744999885559082,
+              0.10649999976158142
+            ]
+          },
+          {
+            "id": "mission_failed",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_44",
+            "hash": "0020824848504000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.24169999361038208,
+              0.43700000643730164,
+              0.4625000059604645,
+              0.29910001158714294
+            ]
+          },
+          {
+            "id": "btn_restart",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-2_48",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2603999972343445,
+              0.7519000172615051,
+              0.25209999084472656,
+              0.14910000562667847
+            ]
+          },
+          {
+            "id": "btn_restart_label",
+            "role": "text",
+            "parent": "btn_restart",
+            "sprite": "",
+            "hash": "",
+            "text": "RESTART",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3228999972343445,
+              0.7824000120162964,
+              0.13279999792575836,
+              0.06939999759197235
+            ]
+          },
+          {
+            "id": "btn_skip",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-2_53",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.545799970626831,
+              0.7519000172615051,
+              0.2572999894618988,
+              0.15189999341964722
+            ]
+          },
+          {
+            "id": "btn_skip_icon",
+            "role": "image",
+            "parent": "btn_skip",
+            "sprite": "atlas-2_47",
+            "hash": "7091c5b1aa506810",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5781000256538391,
+              0.733299970626831,
+              0.06300000101327896,
+              0.12690000236034393
+            ]
+          },
+          {
+            "id": "btn_skip_label",
+            "role": "text",
+            "parent": "btn_skip",
+            "sprite": "",
+            "hash": "",
+            "text": "SKIP",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6614999771118164,
+              0.7824000120162964,
+              0.0754999965429306,
+              0.06939999759197235
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "hud",
+      "name": "hud",
+      "kind": "hud",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "btn_env",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_20",
+            "hash": "8000000000000001",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.01979999989271164,
+              0.06849999725818634,
+              0.09529999643564224,
+              0.09809999912977219
+            ]
+          },
+          {
+            "id": "btn_env_icons",
+            "role": "image",
+            "parent": "btn_env",
+            "sprite": "atlas-1_21",
+            "hash": "862a632da6662c14",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.03229999914765358,
+              0.03700000047683716,
+              0.07029999792575836,
+              0.08060000091791153
+            ]
+          },
+          {
+            "id": "btn_env_label",
+            "role": "image",
+            "parent": "btn_env",
+            "sprite": "atlas-1_16",
+            "hash": "50500c0a0a0a2800",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.02449999935925007,
+              0.11760000139474869,
+              0.09839999675750732,
+              0.029600000008940697
+            ]
+          },
+          {
+            "id": "btn_env_alert",
+            "role": "image",
+            "parent": "btn_env",
+            "sprite": "atlas-1_1",
+            "hash": "6896a8736badb228",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.10419999808073044,
+              0.05739999935030937,
+              0.02810000069439411,
+              0.05000000074505806
+            ]
+          },
+          {
+            "id": "targets",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_12",
+            "hash": "808060a0a0a0c080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7218999862670898,
+              0.04809999838471413,
+              0.11670000106096268,
+              0.07779999822378159
+            ]
+          },
+          {
+            "id": "targets_count",
+            "role": "text",
+            "parent": "targets",
+            "sprite": "",
+            "hash": "",
+            "text": "3/<color=#FF4D6D>6</color>",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7698000073432922,
+              0.06300000101327896,
+              0.0494999997317791,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "btn_cash_add",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_0",
+            "hash": "004040a020206000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.84170001745224,
+              0.046300001442432404,
+              0.13910000026226044,
+              0.07410000264644623
+            ]
+          },
+          {
+            "id": "btn_cash_add_amount",
+            "role": "text",
+            "parent": "btn_cash_add",
+            "sprite": "",
+            "hash": "",
+            "text": "3260",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8880000114440918,
+              0.06300000101327896,
+              0.05730000138282776,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "power_ring",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_8",
+            "hash": "0641808080804106",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8646000027656555,
+              0.38429999351501465,
+              0.09640000015497208,
+              0.1712999939918518
+            ]
+          },
+          {
+            "id": "btn_power",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_7",
+            "hash": "40ac222b154d9640",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8619999885559082,
+              0.39629998803138733,
+              0.09109999984502792,
+              0.16200000047683716
+            ]
+          },
+          {
+            "id": "btn_power_tag",
+            "role": "image",
+            "parent": "btn_power",
+            "sprite": "atlas-1_2",
+            "hash": "9445c362c05b6580",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8672000169754028,
+              0.5443999767303467,
+              0.0681999996304512,
+              0.05090000107884407
+            ]
+          },
+          {
+            "id": "btn_power_tag_icon",
+            "role": "image",
+            "parent": "btn_power_tag",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8723999857902527,
+              0.5480999946594238,
+              0.026000000536441803,
+              0.03889999911189079
+            ]
+          },
+          {
+            "id": "btn_power_tag_price",
+            "role": "text",
+            "parent": "btn_power_tag",
+            "sprite": "",
+            "hash": "",
+            "text": "10",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8984000086784363,
+              0.5508999824523926,
+              0.026000000536441803,
+              0.03700000047683716
+            ]
+          },
+          {
+            "id": "crime",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_47",
+            "hash": "0180000080808000",
+            "text": "",
+            "anim": "SlideUp",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.07079999893903732,
+              0.8184999823570251,
+              0.8285999894142151,
+              0.1444000005722046
+            ]
+          },
+          {
+            "id": "crime_title",
+            "role": "text",
+            "parent": "crime",
+            "sprite": "",
+            "hash": "",
+            "text": "CRIME NAME",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.17970000207424164,
+              0.7943999767303467,
+              0.21089999377727509,
+              0.05739999935030937
+            ]
+          },
+          {
+            "id": "crime_objective",
+            "role": "text",
+            "parent": "crime",
+            "sprite": "",
+            "hash": "",
+            "text": "write the game crime objective here there where anywhere whatever .",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.17970000207424164,
+              0.8684999942779541,
+              0.5885000228881836,
+              0.04170000180602074
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "image5",
+      "name": "image (5)",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          512,
+          288
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "cash_box",
+            "role": "image",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8945000171661377,
+              0.04170000180602074,
+              0.10159999877214432,
+              0.09030000120401382
+            ]
+          },
+          {
+            "id": "cash_icon",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.888700008392334,
+              0.045099999755620956,
+              0.04879999905824661,
+              0.07639999687671661
+            ]
+          },
+          {
+            "id": "cash_amount",
+            "role": "text",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "0",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.9531000256538391,
+              0.05209999904036522,
+              0.02930000051856041,
+              0.0625
+            ]
+          },
+          {
+            "id": "card",
+            "role": "panel",
+            "parent": "",
+            "sprite": "panel props",
+            "hash": "0000000000018205",
+            "text": "",
+            "anim": "SlideLeft",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6718999743461609,
+              0.2639000117778778,
+              0.32420000433921814,
+              0.5694000124931335
+            ]
+          },
+          {
+            "id": "card_title",
+            "role": "image",
+            "parent": "card",
+            "sprite": "atlas-2_15",
+            "hash": "0400101818101008",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.75,
+              0.3021000027656555,
+              0.1445000022649765,
+              0.05209999904036522
+            ]
+          },
+          {
+            "id": "card_glow",
+            "role": "image",
+            "parent": "card",
+            "sprite": "BuyPanelBG",
+            "hash": "140f0f0f0f0f0f16",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7265999913215637,
+              0.3368000090122223,
+              0.21480000019073486,
+              0.3646000027656555
+            ]
+          },
+          {
+            "id": "card_item",
+            "role": "image",
+            "parent": "card",
+            "sprite": "props_9",
+            "hash": "50dc2c63f9693d0f",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7577999830245972,
+              0.3993000090122223,
+              0.14650000631809235,
+              0.19099999964237213
+            ]
+          },
+          {
+            "id": "card_question",
+            "role": "text",
+            "parent": "card",
+            "sprite": "",
+            "hash": "",
+            "text": "Want to unlock it ?",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7324000000953674,
+              0.645799994468689,
+              0.20509999990463257,
+              0.04859999939799309
+            ]
+          },
+          {
+            "id": "card_btn_free",
+            "role": "button",
+            "parent": "card",
+            "sprite": "atlas-2_49",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6776999831199646,
+              0.729200005531311,
+              0.14839999377727509,
+              0.09030000120401382
+            ]
+          },
+          {
+            "id": "card_btn_free_icon",
+            "role": "image",
+            "parent": "card_btn_free",
+            "sprite": "atlas-2_21",
+            "hash": "c001212121210182",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6913999915122986,
+              0.7465000152587891,
+              0.03519999980926514,
+              0.04859999939799309
+            ]
+          },
+          {
+            "id": "card_btn_free_label",
+            "role": "text",
+            "parent": "card_btn_free",
+            "sprite": "",
+            "hash": "",
+            "text": "FREE",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7383000254631042,
+              0.7396000027656555,
+              0.0625,
+              0.05209999904036522
+            ]
+          },
+          {
+            "id": "card_btn_buy",
+            "role": "button",
+            "parent": "card",
+            "sprite": "atlas-2_50",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8339999914169312,
+              0.729200005531311,
+              0.14839999377727509,
+              0.09030000120401382
+            ]
+          },
+          {
+            "id": "card_btn_buy_icon",
+            "role": "image",
+            "parent": "card_btn_buy",
+            "sprite": "atlas-2_19",
+            "hash": "206898587d492a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8438000082969666,
+              0.7361000180244446,
+              0.0430000014603138,
+              0.05900000035762787
+            ]
+          },
+          {
+            "id": "card_btn_buy_price",
+            "role": "text",
+            "parent": "card_btn_buy",
+            "sprite": "",
+            "hash": "",
+            "text": "3260",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.888700008392334,
+              0.7396000027656555,
+              0.07810000330209732,
+              0.05209999904036522
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "nointernet",
+      "name": "no internet",
+      "kind": "popup",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0.6000000238418579,
+        "elements": [
+          {
+            "id": "frame",
+            "role": "panel",
+            "parent": "",
+            "sprite": "no internet",
+            "hash": "0000000000000001",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2750000059604645,
+              0.21480000019073486,
+              0.4693000018596649,
+              0.5213000178337097
+            ]
+          },
+          {
+            "id": "frame_title",
+            "role": "image",
+            "parent": "frame",
+            "sprite": "atlas-2_35",
+            "hash": "94282ccccccc2896",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4115000069141388,
+              0.24070000648498535,
+              0.20000000298023224,
+              0.052799999713897705
+            ]
+          },
+          {
+            "id": "frame_icon",
+            "role": "image",
+            "parent": "frame",
+            "sprite": "atlas-2_40",
+            "hash": "1028542a2e4c694c",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4332999885082245,
+              0.34439998865127563,
+              0.14839999377727509,
+              0.22499999403953552
+            ]
+          },
+          {
+            "id": "frame_message",
+            "role": "text",
+            "parent": "frame",
+            "sprite": "",
+            "hash": "",
+            "text": "Please check your internet connection..",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3594000041484833,
+              0.5879999995231628,
+              0.30730000138282776,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "frame_btn_try",
+            "role": "button",
+            "parent": "frame",
+            "sprite": "atlas-2_54",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.41040000319480896,
+              0.6518999934196472,
+              0.20160000026226044,
+              0.12039999663829803
+            ]
+          },
+          {
+            "id": "frame_btn_try_label",
+            "role": "text",
+            "parent": "frame_btn_try",
+            "sprite": "",
+            "hash": "",
+            "text": "TRY AGAIN",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4401000142097473,
+              0.6740999817848206,
+              0.14579999446868896,
+              0.06480000168085098
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "privacy",
+      "name": "privacy",
+      "kind": "popup",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0.6000000238418579,
+        "elements": [
+          {
+            "id": "frame",
+            "role": "panel",
+            "parent": "",
+            "sprite": "policy",
+            "hash": "0000000000000003",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.20829999446868896,
+              0.16300000250339508,
+              0.6025999784469604,
+              0.6258999705314636
+            ]
+          },
+          {
+            "id": "frame_title",
+            "role": "image",
+            "parent": "frame",
+            "sprite": "atlas-2_39",
+            "hash": "0000004120412014",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.42080000042915344,
+              0.18520000576972961,
+              0.18440000712871552,
+              0.06300000101327896
+            ]
+          },
+          {
+            "id": "frame_text",
+            "role": "text",
+            "parent": "frame",
+            "sprite": "",
+            "hash": "",
+            "text": "By continuing to play you confirm you agree to our",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.25519999861717224,
+              0.31940001249313354,
+              0.5130000114440918,
+              0.10189999639987946
+            ]
+          },
+          {
+            "id": "frame_btn_terms",
+            "role": "button",
+            "parent": "frame",
+            "sprite": "",
+            "hash": "",
+            "text": "<u>Terms and privacy policy.</u>",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3646000027656555,
+              0.47040000557899475,
+              0.29170000553131104,
+              0.05739999935030937
+            ]
+          },
+          {
+            "id": "frame_age",
+            "role": "text",
+            "parent": "frame",
+            "sprite": "",
+            "hash": "",
+            "text": "you also confirm you are over 16 year old.",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.27079999446868896,
+              0.5694000124931335,
+              0.47920000553131104,
+              0.06019999831914902
+            ]
+          },
+          {
+            "id": "frame_btn_accept",
+            "role": "button",
+            "parent": "frame",
+            "sprite": "atlas-2_54",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.39579999446868896,
+              0.6963000297546387,
+              0.22920000553131104,
+              0.13699999451637268
+            ]
+          },
+          {
+            "id": "frame_btn_accept_icon",
+            "role": "image",
+            "parent": "frame_btn_accept",
+            "sprite": "atlas-2_5",
+            "hash": "9601010101240410",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4203000068664551,
+              0.7074000239372253,
+              0.04170000180602074,
+              0.07779999822378159
+            ]
+          },
+          {
+            "id": "frame_btn_accept_label",
+            "role": "text",
+            "parent": "frame_btn_accept",
+            "sprite": "",
+            "hash": "",
+            "text": "ACCEPT",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4713999927043915,
+              0.7203999757766724,
+              0.11720000207424164,
+              0.06939999759197235
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "revive",
+      "name": "revive",
+      "kind": "popup",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0.30000001192092896,
+        "elements": [
+          {
+            "id": "circle",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_1",
+            "hash": "4082010103019640",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3167000114917755,
+              0.08799999952316284,
+              0.3384999930858612,
+              0.6111000180244446
+            ]
+          },
+          {
+            "id": "timer",
+            "role": "timer",
+            "parent": "circle",
+            "sprite": "atlas-2_3",
+            "hash": "2a4180000080412a",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.32030001282691956,
+              0.08799999952316284,
+              0.3384999930858612,
+              0.6111000180244446
+            ]
+          },
+          {
+            "id": "timer_count",
+            "role": "text",
+            "parent": "timer",
+            "sprite": "",
+            "hash": "",
+            "text": "3",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4661000072956085,
+              0.541700005531311,
+              0.03909999877214432,
+              0.09719999879598618
+            ]
+          },
+          {
+            "id": "circle_title",
+            "role": "text",
+            "parent": "circle",
+            "sprite": "",
+            "hash": "",
+            "text": "REVIVE ?",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4115000069141388,
+              0.16670000553131104,
+              0.14839999377727509,
+              0.06939999759197235
+            ]
+          },
+          {
+            "id": "circle_subtitle",
+            "role": "text",
+            "parent": "circle",
+            "sprite": "",
+            "hash": "",
+            "text": "You missed the target",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.38960000872612,
+              0.24539999663829803,
+              0.19269999861717224,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "circle_face",
+            "role": "image",
+            "parent": "circle",
+            "sprite": "atlas-2_43",
+            "hash": "2012a13032493408",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4187000095844269,
+              0.3073999881744385,
+              0.13910000026226044,
+              0.2046000063419342
+            ]
+          },
+          {
+            "id": "btn_yes",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-2_54",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3833000063896179,
+              0.7221999764442444,
+              0.20679999887943268,
+              0.12309999763965607
+            ]
+          },
+          {
+            "id": "btn_yes_icon",
+            "role": "image",
+            "parent": "btn_yes",
+            "sprite": "atlas-2_47",
+            "hash": "7091c5b1aa506810",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.38960000872612,
+              0.7148000001907349,
+              0.04899999871850014,
+              0.09910000115633011
+            ]
+          },
+          {
+            "id": "btn_yes_label",
+            "role": "text",
+            "parent": "btn_yes",
+            "sprite": "",
+            "hash": "",
+            "text": "YES",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4650999903678894,
+              0.7454000115394592,
+              0.05990000069141388,
+              0.06480000168085098
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "settinng",
+      "name": "settinng",
+      "kind": "popup",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0.6000000238418579,
+        "elements": [
+          {
+            "id": "dialog",
+            "role": "panel",
+            "parent": "",
+            "sprite": "settong popup",
+            "hash": "0000000000000002",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.15000000596046448,
+              0.10369999706745148,
+              0.72079998254776,
+              0.7565000057220459
+            ]
+          },
+          {
+            "id": "dialog_title",
+            "role": "image",
+            "parent": "dialog",
+            "sprite": "atlas-2_32",
+            "hash": "1244444444440486",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.40310001373291016,
+              0.1315000057220459,
+              0.2078000009059906,
+              0.0731000006198883
+            ]
+          },
+          {
+            "id": "dialog_btn_close",
+            "role": "button",
+            "parent": "dialog",
+            "sprite": "atlas-2_33",
+            "hash": "00706b0d2713ab27",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8177000284194946,
+              0.125900000333786,
+              0.06560000032186508,
+              0.08699999749660492
+            ]
+          },
+          {
+            "id": "dialog_music_bg",
+            "role": "image",
+            "parent": "dialog",
+            "sprite": "atlas-2_7",
+            "hash": "8000000000000080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.20309999585151672,
+              0.25,
+              0.05730000138282776,
+              0.08799999952316284
+            ]
+          },
+          {
+            "id": "dialog_music_icon",
+            "role": "image",
+            "parent": "dialog_music_bg",
+            "sprite": "atlas-2_4",
+            "hash": "2011101010060000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.21250000596046448,
+              0.2619999945163727,
+              0.03750000149011612,
+              0.06669999659061432
+            ]
+          },
+          {
+            "id": "dialog_music_label",
+            "role": "text",
+            "parent": "dialog",
+            "sprite": "",
+            "hash": "",
+            "text": "MUSIC",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2802000045776367,
+              0.25929999351501465,
+              0.05730000138282776,
+              0.03700000047683716
+            ]
+          },
+          {
+            "id": "dialog_music",
+            "role": "slider",
+            "parent": "dialog",
+            "sprite": "atlas-2_24",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "music",
+            "rect": [
+              0.2734000086784363,
+              0.29809999465942383,
+              0.5311999917030334,
+              0.029600000008940697
+            ]
+          },
+          {
+            "id": "dialog_music_fill",
+            "role": "image",
+            "parent": "dialog_music",
+            "sprite": "atlas-2_25",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2745000123977661,
+              0.31200000643730164,
+              0.3082999885082245,
+              0.01850000023841858
+            ]
+          },
+          {
+            "id": "dialog_music_knob",
+            "role": "image",
+            "parent": "dialog_music",
+            "sprite": "atlas-2_29",
+            "hash": "c001012512121501",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5530999898910522,
+              0.2815000116825104,
+              0.05620000138878822,
+              0.06300000101327896
+            ]
+          },
+          {
+            "id": "dialog_sound_bg",
+            "role": "image",
+            "parent": "dialog",
+            "sprite": "atlas-2_7",
+            "hash": "8000000000000080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.20309999585151672,
+              0.37959998846054077,
+              0.05730000138282776,
+              0.08799999952316284
+            ]
+          },
+          {
+            "id": "dialog_sound_icon",
+            "role": "image",
+            "parent": "dialog_sound_bg",
+            "sprite": "atlas-2_6",
+            "hash": "08090a0a0a0a0908",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.21089999377727509,
+              0.3889000117778778,
+              0.04170000180602074,
+              0.06939999759197235
+            ]
+          },
+          {
+            "id": "dialog_sound_label",
+            "role": "text",
+            "parent": "dialog",
+            "sprite": "",
+            "hash": "",
+            "text": "SOUND",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.28279998898506165,
+              0.38429999351501465,
+              0.05829999968409538,
+              0.03700000047683716
+            ]
+          },
+          {
+            "id": "dialog_sound",
+            "role": "slider",
+            "parent": "dialog",
+            "sprite": "atlas-2_24",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "sfx",
+            "rect": [
+              0.2734000086784363,
+              0.42590001225471497,
+              0.5311999917030334,
+              0.029600000008940697
+            ]
+          },
+          {
+            "id": "dialog_sound_fill",
+            "role": "image",
+            "parent": "dialog_sound",
+            "sprite": "atlas-2_25",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2745000123977661,
+              0.4361000061035156,
+              0.3578000068664551,
+              0.021299999207258224
+            ]
+          },
+          {
+            "id": "dialog_sound_knob",
+            "role": "image",
+            "parent": "dialog_sound",
+            "sprite": "atlas-2_29",
+            "hash": "c001012512121501",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6187000274658203,
+              0.4092999994754791,
+              0.05620000138878822,
+              0.06300000101327896
+            ]
+          },
+          {
+            "id": "dialog_sensitivity_bg",
+            "role": "image",
+            "parent": "dialog",
+            "sprite": "atlas-2_7",
+            "hash": "8000000000000080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.20309999585151672,
+              0.5092999935150146,
+              0.05730000138282776,
+              0.08799999952316284
+            ]
+          },
+          {
+            "id": "dialog_sensitivity_icon",
+            "role": "image",
+            "parent": "dialog_sensitivity_bg",
+            "sprite": "atlas-2_10",
+            "hash": "01010148c828c040",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.20829999446868896,
+              0.5184999704360962,
+              0.04690000042319298,
+              0.07590000331401825
+            ]
+          },
+          {
+            "id": "dialog_sensitivity_label",
+            "role": "text",
+            "parent": "dialog",
+            "sprite": "",
+            "hash": "",
+            "text": "SENSITIVITY",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.28119999170303345,
+              0.5092999935150146,
+              0.10419999808073044,
+              0.03889999911189079
+            ]
+          },
+          {
+            "id": "dialog_sensitivity",
+            "role": "slider",
+            "parent": "dialog",
+            "sprite": "atlas-2_24",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "none",
+            "rect": [
+              0.2734000086784363,
+              0.5527999997138977,
+              0.5311999917030334,
+              0.029600000008940697
+            ]
+          },
+          {
+            "id": "dialog_sensitivity_fill",
+            "role": "image",
+            "parent": "dialog_sensitivity",
+            "sprite": "atlas-2_25",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2745000123977661,
+              0.5638999938964844,
+              0.3578000068664551,
+              0.021299999207258224
+            ]
+          },
+          {
+            "id": "dialog_sensitivity_knob",
+            "role": "image",
+            "parent": "dialog_sensitivity",
+            "sprite": "atlas-2_29",
+            "hash": "c001012512121501",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6187000274658203,
+              0.5407000184059143,
+              0.05620000138878822,
+              0.06300000101327896
+            ]
+          },
+          {
+            "id": "dialog_quality_icon_bg",
+            "role": "image",
+            "parent": "dialog",
+            "sprite": "atlas-2_7",
+            "hash": "8000000000000080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.19529999792575836,
+              0.6833000183105469,
+              0.06769999861717224,
+              0.10369999706745148
+            ]
+          },
+          {
+            "id": "dialog_quality_icon",
+            "role": "image",
+            "parent": "dialog_quality_icon_bg",
+            "sprite": "atlas-2_0",
+            "hash": "8000412121410080",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.20469999313354492,
+              0.6991000175476074,
+              0.0494999997317791,
+              0.07410000264644623
+            ]
+          },
+          {
+            "id": "dialog_quality_label",
+            "role": "text",
+            "parent": "dialog",
+            "sprite": "",
+            "hash": "",
+            "text": "GRAPHIC QUALITY",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.28540000319480896,
+              0.6647999882698059,
+              0.17970000207424164,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "dialog_quality_bg",
+            "role": "image",
+            "parent": "dialog",
+            "sprite": "atlas-2_26",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2734000086784363,
+              0.7221999764442444,
+              0.5311999917030334,
+              0.10189999639987946
+            ]
+          },
+          {
+            "id": "dialog_quality",
+            "role": "toggles",
+            "parent": "dialog",
+            "sprite": "",
+            "hash": "",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2734000086784363,
+              0.7221999764442444,
+              0.5311999917030334,
+              0.10189999639987946
+            ]
+          },
+          {
+            "id": "dialog_quality_low",
+            "role": "toggle",
+            "parent": "dialog_quality",
+            "sprite": "atlas-2_36",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2822999954223633,
+              0.7343000173568726,
+              0.1526000052690506,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "dialog_quality_low_on",
+            "role": "image",
+            "parent": "dialog_quality_low",
+            "sprite": "atlas-2_30",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2822999954223633,
+              0.7343000173568726,
+              0.1526000052690506,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "dialog_quality_low_label",
+            "role": "text",
+            "parent": "dialog_quality_low",
+            "sprite": "",
+            "hash": "",
+            "text": "LOW",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3375000059604645,
+              0.7545999884605408,
+              0.04170000180602074,
+              0.03889999911189079
+            ]
+          },
+          {
+            "id": "dialog_quality_medium",
+            "role": "toggle",
+            "parent": "dialog_quality",
+            "sprite": "atlas-2_36",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.45680001378059387,
+              0.7343000173568726,
+              0.1526000052690506,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "dialog_quality_medium_on",
+            "role": "image",
+            "parent": "dialog_quality_medium",
+            "sprite": "atlas-2_30",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.45680001378059387,
+              0.7343000173568726,
+              0.1526000052690506,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "dialog_quality_medium_label",
+            "role": "text",
+            "parent": "dialog_quality_medium",
+            "sprite": "",
+            "hash": "",
+            "text": "MEDIUM",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4957999885082245,
+              0.7545999884605408,
+              0.0754999965429306,
+              0.03889999911189079
+            ]
+          },
+          {
+            "id": "dialog_quality_high",
+            "role": "toggle",
+            "parent": "dialog_quality",
+            "sprite": "atlas-2_36",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6431999802589417,
+              0.7343000173568726,
+              0.1526000052690506,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "dialog_quality_high_on",
+            "role": "image",
+            "parent": "dialog_quality_high",
+            "sprite": "atlas-2_30",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6431999802589417,
+              0.7343000173568726,
+              0.1526000052690506,
+              0.08150000125169754
+            ]
+          },
+          {
+            "id": "dialog_quality_high_label",
+            "role": "text",
+            "parent": "dialog_quality_high",
+            "sprite": "",
+            "hash": "",
+            "text": "HIGH",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6978999972343445,
+              0.7545999884605408,
+              0.04430000111460686,
+              0.03889999911189079
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "shop",
+      "name": "shop",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "btn_back",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-1_51",
+            "hash": "3048880000004828",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.03539999946951866,
+              0.01850000023841858,
+              0.05829999968409538,
+              0.08240000158548355
+            ]
+          },
+          {
+            "id": "title",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_50",
+            "hash": "0a3511090888148a",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4447999894618988,
+              0.03700000047683716,
+              0.1307000070810318,
+              0.09070000052452087
+            ]
+          },
+          {
+            "id": "cash_box",
+            "role": "image",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8802000284194946,
+              0.052799999713897705,
+              0.09790000319480896,
+              0.05739999935030937
+            ]
+          },
+          {
+            "id": "cash_icon",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.8489999771118164,
+              0.03700000047683716,
+              0.05209999904036522,
+              0.08330000191926956
+            ]
+          },
+          {
+            "id": "cash_amount",
+            "role": "text",
+            "parent": "",
+            "sprite": "",
+            "hash": "",
+            "text": "100",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.9089000225067139,
+              0.05739999935030937,
+              0.05209999904036522,
+              0.04809999838471413
+            ]
+          },
+          {
+            "id": "card_noads",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_28",
+            "hash": "00805222241a0004",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.0333000011742115,
+              0.11110000312328339,
+              0.24480000138282776,
+              0.7610999941825867
+            ]
+          },
+          {
+            "id": "card_noads_title",
+            "role": "image",
+            "parent": "card_noads",
+            "sprite": "atlas-1_43b",
+            "hash": "aa1004a82489542b",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.09380000084638596,
+              0.21199999749660492,
+              0.14219999313354492,
+              0.04349999874830246
+            ]
+          },
+          {
+            "id": "card_noads_tag",
+            "role": "image",
+            "parent": "card_noads",
+            "sprite": "atlas-1_38",
+            "hash": "1359062426149981",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.0478999987244606,
+              0.28519999980926514,
+              0.06199999898672104,
+              0.06759999692440033
+            ]
+          },
+          {
+            "id": "card_noads_subtitle",
+            "role": "image",
+            "parent": "card_noads",
+            "sprite": "atlas-1_49",
+            "hash": "218c928b48a48102",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.0812000036239624,
+              0.733299970626831,
+              0.1656000018119812,
+              0.03150000050663948
+            ]
+          },
+          {
+            "id": "card_noads_btn_buy",
+            "role": "button",
+            "parent": "card_noads",
+            "sprite": "atlas-1_30",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.07500000298023224,
+              0.7778000235557556,
+              0.18279999494552612,
+              0.10649999976158142
+            ]
+          },
+          {
+            "id": "card_noads_btn_buy_price",
+            "role": "image",
+            "parent": "card_noads_btn_buy",
+            "sprite": "atlas-1_43",
+            "hash": "22c5405090505900",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.12290000170469284,
+              0.7907000184059143,
+              0.09269999712705612,
+              0.06199999898672104
+            ]
+          },
+          {
+            "id": "card_bonus",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_26",
+            "hash": "20820002026a0028",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3312999904155731,
+              0.1444000005722046,
+              0.17080000042915344,
+              0.3370000123977661
+            ]
+          },
+          {
+            "id": "card_bonus_title",
+            "role": "image",
+            "parent": "card_bonus",
+            "sprite": "atlas-1_39",
+            "hash": "22494480a4b22004",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3589000105857849,
+              0.2046000063419342,
+              0.1160999983549118,
+              0.03610000014305115
+            ]
+          },
+          {
+            "id": "card_bonus_img",
+            "role": "image",
+            "parent": "card_bonus",
+            "sprite": "atlas-1_19",
+            "hash": "10b88c766e362a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3594000041484833,
+              0.2639000117778778,
+              0.10419999808073044,
+              0.1573999971151352
+            ]
+          },
+          {
+            "id": "card_bonus_amount",
+            "role": "image",
+            "parent": "card_bonus",
+            "sprite": "atlas-1_3",
+            "hash": "668947ac45665b26",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.41609999537467957,
+              0.36570000648498535,
+              0.0568000003695488,
+              0.05559999868273735
+            ]
+          },
+          {
+            "id": "card_bonus_btn_buy",
+            "role": "button",
+            "parent": "card_bonus",
+            "sprite": "atlas-1_29",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.34060001373291016,
+              0.4406999945640564,
+              0.15209999680519104,
+              0.07959999889135361
+            ]
+          },
+          {
+            "id": "card_bonus_btn_buy_icon",
+            "role": "image",
+            "parent": "card_bonus_btn_buy",
+            "sprite": "atlas-1_4",
+            "hash": "8001212020200180",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.36039999127388,
+              0.45559999346733093,
+              0.02810000069439411,
+              0.040699999779462814
+            ]
+          },
+          {
+            "id": "card_bonus_btn_buy_price",
+            "role": "image",
+            "parent": "card_bonus_btn_buy",
+            "sprite": "atlas-1_10",
+            "hash": "48a0a09555a55008",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.40310001373291016,
+              0.45829999446868896,
+              0.04899999871850014,
+              0.03799999877810478
+            ]
+          },
+          {
+            "id": "card_100",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_26",
+            "hash": "20820002026a0028",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5311999917030334,
+              0.1444000005722046,
+              0.17080000042915344,
+              0.3370000123977661
+            ]
+          },
+          {
+            "id": "card_100_icon",
+            "role": "image",
+            "parent": "card_100",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5677000284194946,
+              0.19910000264644623,
+              0.028599999845027924,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_100_title",
+            "role": "image",
+            "parent": "card_100",
+            "sprite": "atlas-1_40",
+            "hash": "2a95454e4a44856a",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5983999967575073,
+              0.2037000060081482,
+              0.0551999993622303,
+              0.039799999445676804
+            ]
+          },
+          {
+            "id": "card_100_img",
+            "role": "image",
+            "parent": "card_100",
+            "sprite": "atlas-1_18",
+            "hash": "20d0a8b85a452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5666999816894531,
+              0.2685000002384186,
+              0.09640000015497208,
+              0.1573999971151352
+            ]
+          },
+          {
+            "id": "card_100_btn_buy",
+            "role": "button",
+            "parent": "card_100",
+            "sprite": "atlas-1_31",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5406000018119812,
+              0.4406999945640564,
+              0.15209999680519104,
+              0.07959999889135361
+            ]
+          },
+          {
+            "id": "card_100_btn_buy_price",
+            "role": "image",
+            "parent": "card_100_btn_buy",
+            "sprite": "atlas-1_14bb",
+            "hash": "802c4970a051a200",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5864999890327454,
+              0.4472000002861023,
+              0.05990000069141388,
+              0.05090000107884407
+            ]
+          },
+          {
+            "id": "card_1100",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_26",
+            "hash": "20820002026a0028",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7311999797821045,
+              0.1444000005722046,
+              0.17080000042915344,
+              0.3370000123977661
+            ]
+          },
+          {
+            "id": "card_1100_icon",
+            "role": "image",
+            "parent": "card_1100",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7630000114440918,
+              0.19910000264644623,
+              0.028599999845027924,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_1100_title",
+            "role": "image",
+            "parent": "card_1100",
+            "sprite": "atlas-1_37",
+            "hash": "1a85454a4ac0a55a",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7953000068664551,
+              0.2046000063419342,
+              0.0640999972820282,
+              0.039799999445676804
+            ]
+          },
+          {
+            "id": "card_1100_img",
+            "role": "image",
+            "parent": "card_1100",
+            "sprite": "atlas-1_25",
+            "hash": "40ac94d83c4c7260",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7603999972343445,
+              0.25929999351501465,
+              0.12549999356269836,
+              0.18060000240802765
+            ]
+          },
+          {
+            "id": "card_1100_btn_buy",
+            "role": "button",
+            "parent": "card_1100",
+            "sprite": "atlas-1_31",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7405999898910522,
+              0.4406999945640564,
+              0.15209999680519104,
+              0.07959999889135361
+            ]
+          },
+          {
+            "id": "card_1100_btn_buy_price",
+            "role": "image",
+            "parent": "card_1100_btn_buy",
+            "sprite": "atlas-1_11",
+            "hash": "802c459250d05500",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7885000109672546,
+              0.45190000534057617,
+              0.05620000138878822,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_mini",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_26",
+            "hash": "20820002026a0028",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3312999904155731,
+              0.5443999767303467,
+              0.17080000042915344,
+              0.3370000123977661
+            ]
+          },
+          {
+            "id": "card_mini_title",
+            "role": "image",
+            "parent": "card_mini",
+            "sprite": "atlas-1_41",
+            "hash": "8d08484a47444402",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.366100013256073,
+              0.6065000295639038,
+              0.1031000018119812,
+              0.03610000014305115
+            ]
+          },
+          {
+            "id": "card_mini_img",
+            "role": "image",
+            "parent": "card_mini",
+            "sprite": "atlas-1_27",
+            "hash": "0816abcf6d954038",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.3375000059604645,
+              0.6629999876022339,
+              0.14480000734329224,
+              0.17870000004768372
+            ]
+          },
+          {
+            "id": "card_mini_amount",
+            "role": "image",
+            "parent": "card_mini",
+            "sprite": "atlas-1_3b",
+            "hash": "4a9535caca28352a",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.4348999857902527,
+              0.7925999760627747,
+              0.0608999989926815,
+              0.04439999908208847
+            ]
+          },
+          {
+            "id": "card_mini_btn_buy",
+            "role": "button",
+            "parent": "card_mini",
+            "sprite": "atlas-1_31",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.34060001373291016,
+              0.8425999879837036,
+              0.15209999680519104,
+              0.07959999889135361
+            ]
+          },
+          {
+            "id": "card_mini_btn_buy_price",
+            "role": "image",
+            "parent": "card_mini_btn_buy",
+            "sprite": "atlas-1_14b",
+            "hash": "802c45a250905500",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.38749998807907104,
+              0.8536999821662903,
+              0.05829999968409538,
+              0.04540000110864639
+            ]
+          },
+          {
+            "id": "card_500",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_26",
+            "hash": "20820002026a0028",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5311999917030334,
+              0.5443999767303467,
+              0.17190000414848328,
+              0.33889999985694885
+            ]
+          },
+          {
+            "id": "card_500_icon",
+            "role": "image",
+            "parent": "card_500",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5677000284194946,
+              0.6000000238418579,
+              0.028599999845027924,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_500_title",
+            "role": "image",
+            "parent": "card_500",
+            "sprite": "atlas-1_40b",
+            "hash": "6a95454e4a45952a",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.59579998254776,
+              0.6055999994277954,
+              0.06040000170469284,
+              0.039799999445676804
+            ]
+          },
+          {
+            "id": "card_500_img",
+            "role": "image",
+            "parent": "card_500",
+            "sprite": "atlas-1_24",
+            "hash": "308c2a6bad161e08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5583000183105469,
+              0.666700005531311,
+              0.11249999701976776,
+              0.1648000031709671
+            ]
+          },
+          {
+            "id": "card_500_tag",
+            "role": "image",
+            "parent": "card_500",
+            "sprite": "atlas-1_35b",
+            "hash": "153302020c089383",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5245000123977661,
+              0.656499981880188,
+              0.04430000111460686,
+              0.052799999713897705
+            ]
+          },
+          {
+            "id": "card_500_btn_buy",
+            "role": "button",
+            "parent": "card_500",
+            "sprite": "atlas-1_31",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5406000018119812,
+              0.8425999879837036,
+              0.15209999680519104,
+              0.07959999889135361
+            ]
+          },
+          {
+            "id": "card_500_btn_buy_price",
+            "role": "image",
+            "parent": "card_500_btn_buy",
+            "sprite": "atlas-1_9",
+            "hash": "800a451a50505500",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5879999995231628,
+              0.8508999943733215,
+              0.05730000138282776,
+              0.047200001776218414
+            ]
+          },
+          {
+            "id": "card_2750",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-1_26",
+            "hash": "20820002026a0028",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7311999797821045,
+              0.5443999767303467,
+              0.17190000414848328,
+              0.33889999985694885
+            ]
+          },
+          {
+            "id": "card_2750_icon",
+            "role": "image",
+            "parent": "card_2750",
+            "sprite": "atlas-1_48",
+            "hash": "20a818366d452a08",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7630000114440918,
+              0.6000000238418579,
+              0.028599999845027924,
+              0.046300001442432404
+            ]
+          },
+          {
+            "id": "card_2750_title",
+            "role": "image",
+            "parent": "card_2750",
+            "sprite": "atlas-1_37b",
+            "hash": "52ad006844848150",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7947999835014343,
+              0.6055999994277954,
+              0.06719999760389328,
+              0.039799999445676804
+            ]
+          },
+          {
+            "id": "card_2750_img",
+            "role": "image",
+            "parent": "card_2750",
+            "sprite": "atlas-1_17",
+            "hash": "286a336b764a5428",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7541999816894531,
+              0.6593000292778015,
+              0.12549999356269836,
+              0.18150000274181366
+            ]
+          },
+          {
+            "id": "card_2750_tag",
+            "role": "image",
+            "parent": "card_2750",
+            "sprite": "atlas-1_35",
+            "hash": "1533d212260cb583",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7260000109672546,
+              0.656499981880188,
+              0.04430000111460686,
+              0.052799999713897705
+            ]
+          },
+          {
+            "id": "card_2750_btn_buy",
+            "role": "button",
+            "parent": "card_2750",
+            "sprite": "atlas-1_31",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7405999898910522,
+              0.8425999879837036,
+              0.15209999680519104,
+              0.07959999889135361
+            ]
+          },
+          {
+            "id": "card_2750_btn_buy_price",
+            "role": "image",
+            "parent": "card_2750_btn_buy",
+            "sprite": "atlas-1_14",
+            "hash": "0000495ae8282900",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.7839000225067139,
+              0.8536999821662903,
+              0.06610000133514404,
+              0.046300001442432404
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "key": "unlockenv",
+      "name": "unlock env",
+      "kind": "screen",
+      "seen": 1,
+      "template": {
+        "from": "tool-testing-6e7a",
+        "size": [
+          1920,
+          1080
+        ],
+        "dim": 0,
+        "elements": [
+          {
+            "id": "screen_picture",
+            "role": "image",
+            "parent": "",
+            "sprite": "port",
+            "hash": "59922752c9456592",
+            "text": "",
+            "anim": "Fade",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5041999816894531,
+              0.25189998745918274,
+              0.3589000105857849,
+              0.5278000235557556
+            ]
+          },
+          {
+            "id": "banner",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_52",
+            "hash": "0400000101010201",
+            "text": "",
+            "anim": "SlideLeft",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.2004999965429306,
+              0.023099999874830246,
+              0.5103999972343445,
+              0.20829999446868896
+            ]
+          },
+          {
+            "id": "banner_title",
+            "role": "image",
+            "parent": "banner",
+            "sprite": "atlas-2_51",
+            "hash": "0220444404040490",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.31869998574256897,
+              0.01850000023841858,
+              0.29170000553131104,
+              0.12039999663829803
+            ]
+          },
+          {
+            "id": "banner_unlocked",
+            "role": "image",
+            "parent": "banner",
+            "sprite": "atlas-2_46",
+            "hash": "0861404a48520006",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.47290000319480896,
+              0.10740000009536743,
+              0.17239999771118164,
+              0.08060000091791153
+            ]
+          },
+          {
+            "id": "fx_line_1",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_12",
+            "hash": "0101010204081810",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.04170000180602074,
+              0.23149999976158142,
+              0.0494999997317791,
+              0.05090000107884407
+            ]
+          },
+          {
+            "id": "fx_line_2",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_8",
+            "hash": "0001010103020206",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.05730000138282776,
+              0.1712999939918518,
+              0.026000000536441803,
+              0.08799999952316284
+            ]
+          },
+          {
+            "id": "fx_line_3",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_11",
+            "hash": "080c040602030118",
+            "text": "",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.09640000015497208,
+              0.19910000264644623,
+              0.013000000268220901,
+              0.07410000264644623
+            ]
+          },
+          {
+            "id": "haha",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_2",
+            "hash": "4c822148a04c2a04",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.15729999542236328,
+              0.28519999980926514,
+              0.11089999973773956,
+              0.11760000139474869
+            ]
+          },
+          {
+            "id": "reward",
+            "role": "image",
+            "parent": "",
+            "sprite": "atlas-2_45",
+            "hash": "80804040a0208140",
+            "text": "",
+            "anim": "Pop",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.583299994468689,
+              0.708299994468689,
+              0.1509999930858612,
+              0.09719999879598618
+            ]
+          },
+          {
+            "id": "reward_amount",
+            "role": "text",
+            "parent": "reward",
+            "sprite": "",
+            "hash": "",
+            "text": "+500",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.6484000086784363,
+              0.7361000180244446,
+              0.0754999965429306,
+              0.05559999868273735
+            ]
+          },
+          {
+            "id": "btn_continue",
+            "role": "button",
+            "parent": "",
+            "sprite": "atlas-2_53",
+            "hash": "0000000000000000",
+            "text": "",
+            "anim": "Pulse",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5562000274658203,
+              0.8295999765396118,
+              0.22450000047683716,
+              0.1324000060558319
+            ]
+          },
+          {
+            "id": "btn_continue_label",
+            "role": "text",
+            "parent": "btn_continue",
+            "sprite": "",
+            "hash": "",
+            "text": "CONTINUE",
+            "anim": "",
+            "sound": "",
+            "audio": "",
+            "rect": [
+              0.5910999774932861,
+              0.8518999814987183,
+              0.15620000660419464,
+              0.06939999759197235
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "notes": [
+    {
+      "text": "Panels: `no internet.png` (905x566) = No Internet popup frame; `policy.png` (1161x678) = Privacy/Welcome popup frame; `settong popup.png` (1387x819) = Settings popup frame. All three are the same blue-header/dark-body frame at different proportions, so pick by width:height.",
+      "seen": 1
+    },
+    {
+      "text": "Panels: `panel props.png` (614x634, plain dark navy, no header) = the \"NEW ITEM\" buy card on the props/shelf screen (BuyPanelRef); `BuyPanelBG.png` (blue starburst glow) = glow behind the item inside that card.",
+      "seen": 1
+    },
+    {
+      "text": "Panels: `port.png` / `market.png` / `glitch.png` (717x594, rounded-TV shape) are TV-screen pictures for the Environment Unlocked screen (sits on the black screen of `env-unlock-bg`); glitch = locked/unknown state. Not for env-select cards (those cards come whole in the atlas with the picture baked in).",
+      "seen": 1
+    },
+    {
+      "text": "Panels: `dummy logo.png` (Silly Justice logo) fits no in-game screen in this set; keep for a splash/title screen.",
+      "seen": 1
+    },
+    {
+      "text": "Atlas sprite numbers are not the Preview box numbers: the box label is the list index, the sprite name (e.g. `atlas-1_43b`) comes from the Preview list line. Always map by the list, not the drawn number.",
+      "seen": 1
+    },
+    {
+      "text": "Backgrounds: `env-selc-bg` → env select, `shop-bg` → shop, `hostage-hit-bg` → hostage hit, `env-unlock-bg 1920x1080` → environment unlocked (TV with empty black screen). HUD/eliminated/revive/popups sit over gameplay: no background, dim 0.3–0.6 for popups.",
+      "seen": 1
+    },
+    {
+      "text": "Two mockups can be the same picture under different names (BuyPanelRef.png = image (5).png); give both the same layout.",
+      "seen": 1
+    },
+    {
+      "text": "Panel \"BuyPanelBG\" (512×492) was used on: BuyPanelRef, image (5).",
+      "seen": 1
+    },
+    {
+      "text": "Panel \"no internet\" (905×566) was used on: no internet.",
+      "seen": 1
+    },
+    {
+      "text": "Panel \"panel props\" (614×634) was used on: BuyPanelRef, image (5).",
+      "seen": 1
+    },
+    {
+      "text": "Panel \"policy\" (1161×678) was used on: privacy.",
+      "seen": 1
+    },
+    {
+      "text": "Panel \"port\" (717×594) was used on: unlock env.",
+      "seen": 1
+    },
+    {
+      "text": "Panel \"settong popup\" (1387×819) was used on: settinng.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"BuyPanelRef\" (screen): 14 elements, matched its mockup 92%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"eliminated\" (screen): 6 elements, matched its mockup 75%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"env selc\" (screen): 16 elements, matched its mockup 90%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"hostage\" (screen): 7 elements, matched its mockup 92%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"hud\" (hud): 16 elements, matched its mockup 93%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"image (5)\" (screen): 14 elements, matched its mockup 92%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"no internet\" (popup): 6 elements, matched its mockup 98%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"privacy\" (popup): 8 elements, matched its mockup 96%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"revive\" (popup): 9 elements, matched its mockup 90%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"settinng\" (popup): 35 elements, matched its mockup 97%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"shop\" (screen): 50 elements, matched its mockup 98%.",
+      "seen": 1
+    },
+    {
+      "text": "Screen \"unlock env\" (screen): 12 elements, matched its mockup 97%.",
+      "seen": 1
+    }
+  ]
 }
