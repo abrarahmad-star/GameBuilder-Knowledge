@@ -1,9 +1,9 @@
 # GameBuilder Knowledge (compiled)
 
-Built from 1 project(s): relay-test.
+Built from 0 project(s): none yet.
 
 ## Lessons (most often seen first)
-- Relay test: this folder can be deleted
+- none yet
 
 ## Screens seen
 - none yet
@@ -11,4 +11,4 @@ Built from 1 project(s): relay-test.
 ## Panels (whole images) and the screens they went on
 - none yet
 
-Sprites known by fingerprint: 1 (1 with a name).
+Sprites known by fingerprint: 0 (0 with a name).
