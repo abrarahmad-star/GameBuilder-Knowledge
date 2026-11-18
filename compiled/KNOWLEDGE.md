@@ -17,8 +17,8 @@ Built from 1 project(s): tool-testing-6e7a.
 - Panel "port" (717×594) was used on: unlock env.
 - Panel "settong popup" (1387×819) was used on: settinng.
 - Screen "BuyPanelRef" (screen): 14 elements, matched its mockup 92%.
-- Screen "eliminated" (screen): 6 elements, matched its mockup 75%.
-- Screen "env selc" (screen): 16 elements, matched its mockup 90%.
+- Screen "eliminated" (screen): 8 elements, matched its mockup 75%.
+- Screen "env selc" (screen): 18 elements, matched its mockup 92%.
 - Screen "hostage" (screen): 7 elements, matched its mockup 92%.
 - Screen "hud" (hud): 16 elements, matched its mockup 93%.
 - Screen "image (5)" (screen): 14 elements, matched its mockup 92%.
@@ -31,8 +31,8 @@ Built from 1 project(s): tool-testing-6e7a.
 
 ## Screens seen
 - **BuyPanelRef** (screen), 1 project(s), 14 elements in the latest layout
-- **eliminated** (screen), 1 project(s), 6 elements in the latest layout
-- **env selc** (screen), 1 project(s), 16 elements in the latest layout
+- **eliminated** (screen), 1 project(s), 8 elements in the latest layout
+- **env selc** (screen), 1 project(s), 18 elements in the latest layout
 - **hostage** (screen), 1 project(s), 7 elements in the latest layout
 - **hud** (hud), 1 project(s), 16 elements in the latest layout
 - **image (5)** (screen), 1 project(s), 14 elements in the latest layout
