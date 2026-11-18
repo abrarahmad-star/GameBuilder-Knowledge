@@ -2,7 +2,7 @@
   "schema": 1,
   "project": "Tool Testing",
   "id": "tool-testing-6e7a",
-  "updated": "2026-11-18T09:13:51.6606942Z",
+  "updated": "2026-11-18T09:14:54.0781584Z",
   "uiBuilder": "0.12.1",
   "built": "",
   "projects": [],
@@ -1075,7 +1075,7 @@
     {
       "hash": "6882010000018268",
       "name": "atlas-2_14",
-      "role": "",
+      "role": "image",
       "atlas": "atlas-2",
       "w": 157,
       "h": 157,
@@ -2256,10 +2256,44 @@
         941
       ],
       "dim": 0,
-      "match": 0.7491617798805237,
+      "match": 0.7532070875167847,
       "showOnStart": false,
       "seen": 0,
       "elements": [
+        {
+          "id": "avatar",
+          "role": "image",
+          "parent": "",
+          "sprite": "atlas-2_14",
+          "hash": "6882010000018268",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "rect": [
+            0.01080000028014183,
+            0.008500000461935997,
+            0.08070000261068344,
+            0.14350000023841858
+          ]
+        },
+        {
+          "id": "avatar_level",
+          "role": "text",
+          "parent": "avatar",
+          "sprite": "",
+          "hash": "",
+          "text": "Lvl 1",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "rect": [
+            0.029899999499320984,
+            0.11900000274181366,
+            0.04490000009536743,
+            0.03189999982714653
+          ]
+        },
         {
           "id": "cash_box",
           "role": "image",
@@ -2379,7 +2413,7 @@
         1080
       ],
       "dim": 0,
-      "match": 0.89983731508255,
+      "match": 0.9180681109428406,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2537,6 +2571,23 @@
           ]
         },
         {
+          "id": "card_market_shade",
+          "role": "image",
+          "parent": "card_market",
+          "sprite": "",
+          "hash": "",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "rect": [
+            0.38179999589920044,
+            0.2361000031232834,
+            0.24220000207424164,
+            0.5879999995231628
+          ]
+        },
+        {
           "id": "card_market_logo",
           "role": "image",
           "parent": "card_market",
@@ -2602,6 +2653,23 @@
             0.21480000019073486,
             0.26460000872612,
             0.6712999939918518
+          ]
+        },
+        {
+          "id": "card_port_shade",
+          "role": "image",
+          "parent": "card_port",
+          "sprite": "",
+          "hash": "",
+          "text": "",
+          "anim": "",
+          "sound": "",
+          "audio": "",
+          "rect": [
+            0.6733999848365784,
+            0.2361000031232834,
+            0.24220000207424164,
+            0.5879999995231628
           ]
         },
         {
