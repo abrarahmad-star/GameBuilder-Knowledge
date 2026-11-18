@@ -3,6 +3,9 @@
 Built from 1 project(s): tool-testing-6e7a.
 
 ## Lessons (most often seen first)
+- shop: card_bonus_amount (bonus pack amount label) = atlas-1_3 (111x61); atlas-1_3b is the smaller mini-pack amount.
+- eliminated: a cash box that is a black bar in the mockup must not use atlas-1_29 (green button); use a plain dark color box.
+- Screens whose mockup is a full game scene (eliminated, revive) cap the match score without a matching BG image; add one in BG's to lift it.
 - Panel "BuyPanelBG" (512×492) was used on: BuyPanelRef.
 - Panel "no internet" (905×566) was used on: no internet.
 - Panel "panel props" (614×634) was used on: BuyPanelRef.
@@ -17,8 +20,8 @@ Built from 1 project(s): tool-testing-6e7a.
 - Screen "no internet" (popup): 6 elements, matched its mockup 97%.
 - Screen "privacy" (popup): 8 elements, matched its mockup 96%.
 - Screen "revive" (popup): 9 elements, matched its mockup 89%.
-- Screen "settinng" (popup): 35 elements, matched its mockup 93%.
-- Screen "shop" (screen): 50 elements, matched its mockup 96%.
+- Screen "settinng" (popup): 35 elements, matched its mockup 95%.
+- Screen "shop" (screen): 50 elements, matched its mockup 97%.
 - Screen "unlock env" (screen): 12 elements, matched its mockup 96%.
 
 ## Screens seen

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T12:42:30.359Z",
+  "built": "2026-11-18T13:39:10.292Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -434,7 +434,7 @@
       "w": 113,
       "h": 43,
       "name": null,
-      "role": null,
+      "role": "image",
       "seen": 1
     },
     {
@@ -3356,7 +3356,7 @@
             "id": "dialog_music",
             "role": "slider",
             "parent": "dialog",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3380,7 +3380,7 @@
             "id": "dialog_music_fill",
             "role": "image",
             "parent": "dialog_music",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_49",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3500,7 +3500,7 @@
             "id": "dialog_sound",
             "role": "slider",
             "parent": "dialog",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3524,7 +3524,7 @@
             "id": "dialog_sound_fill",
             "role": "image",
             "parent": "dialog_sound",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_30",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3644,7 +3644,7 @@
             "id": "dialog_sensitivity",
             "role": "slider",
             "parent": "dialog",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3668,7 +3668,7 @@
             "id": "dialog_sensitivity_fill",
             "role": "image",
             "parent": "dialog_sensitivity",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_49",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3716,8 +3716,8 @@
             "id": "dialog_quality_icon_bg",
             "role": "image",
             "parent": "dialog",
-            "sprite": "atlas-2_7",
-            "hash": "8000000000000080",
+            "sprite": "atlas-2_0",
+            "hash": "8000412121410080",
             "text": "",
             "anim": "",
             "sound": "",
@@ -3740,8 +3740,8 @@
             "id": "dialog_quality_icon",
             "role": "image",
             "parent": "dialog_quality_icon_bg",
-            "sprite": "atlas-2_0",
-            "hash": "8000412121410080",
+            "sprite": "atlas-2_7",
+            "hash": "8000000000000080",
             "text": "",
             "anim": "",
             "sound": "",
@@ -3788,7 +3788,7 @@
             "id": "dialog_quality_bg",
             "role": "image",
             "parent": "dialog",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3836,7 +3836,7 @@
             "id": "dialog_quality_low",
             "role": "toggle",
             "parent": "dialog_quality",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3860,7 +3860,7 @@
             "id": "dialog_quality_low_on",
             "role": "image",
             "parent": "dialog_quality_low",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3908,7 +3908,7 @@
             "id": "dialog_quality_medium",
             "role": "toggle",
             "parent": "dialog_quality",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_30",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3932,7 +3932,7 @@
             "id": "dialog_quality_medium_on",
             "role": "image",
             "parent": "dialog_quality_medium",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_30",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -3980,7 +3980,7 @@
             "id": "dialog_quality_high",
             "role": "toggle",
             "parent": "dialog_quality",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -4004,7 +4004,7 @@
             "id": "dialog_quality_high_on",
             "role": "image",
             "parent": "dialog_quality_high",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_36",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -4598,7 +4598,7 @@
             "id": "card_100_btn_buy",
             "role": "button",
             "parent": "card_100",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_50",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -4608,7 +4608,7 @@
             "opens": "none",
             "shows": "",
             "rect": [
-              0.5385000109672546,
+              0.5406000018119812,
               0.4406999945640564,
               0.15209999680519104,
               0.07959999889135361
@@ -4742,7 +4742,7 @@
             "id": "card_1100_btn_buy",
             "role": "button",
             "parent": "card_1100",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_50",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -4752,9 +4752,9 @@
             "opens": "none",
             "shows": "",
             "rect": [
-              0.7384999990463257,
+              0.7405999898910522,
               0.4406999945640564,
-              0.15209999680519104,
+              0.13279999792575836,
               0.07959999889135361
             ],
             "on": false,
@@ -4886,7 +4886,7 @@
             "id": "card_mini_btn_buy",
             "role": "button",
             "parent": "card_mini",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_50",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -4896,10 +4896,10 @@
             "opens": "none",
             "shows": "",
             "rect": [
-              0.34060001373291016,
-              0.8406999707221985,
-              0.15209999680519104,
-              0.07959999889135361
+              0.3490000069141388,
+              0.8425999879837036,
+              0.13179999589920044,
+              0.0786999985575676
             ],
             "on": false,
             "sliced": false,
@@ -4982,8 +4982,8 @@
             "id": "card_500_title",
             "role": "image",
             "parent": "card_500",
-            "sprite": "atlas-1_40",
-            "hash": "2a95454e4a44856a",
+            "sprite": "atlas-1_40b",
+            "hash": "6a95544c4844952a",
             "text": "",
             "anim": "",
             "sound": "",
@@ -4992,9 +4992,9 @@
             "opens": "",
             "shows": "",
             "rect": [
-              0.5978999733924866,
-              0.6036999821662903,
-              0.05570000037550926,
+              0.5964000225067139,
+              0.6055999994277954,
+              0.05829999968409538,
               0.039799999445676804
             ],
             "on": false,
@@ -5054,7 +5054,7 @@
             "id": "card_500_btn_buy",
             "role": "button",
             "parent": "card_500",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-2_50",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -5064,9 +5064,9 @@
             "opens": "none",
             "shows": "",
             "rect": [
-              0.5385000109672546,
-              0.8406999707221985,
-              0.15209999680519104,
+              0.5406000018119812,
+              0.8425999879837036,
+              0.13279999792575836,
               0.07959999889135361
             ],
             "on": false,
@@ -5222,7 +5222,7 @@
             "id": "card_2750_btn_buy",
             "role": "button",
             "parent": "card_2750",
-            "sprite": "atlas-1_29",
+            "sprite": "atlas-1_31",
             "hash": "0000000000000000",
             "text": "",
             "anim": "",
@@ -5232,8 +5232,8 @@
             "opens": "none",
             "shows": "",
             "rect": [
-              0.7384999990463257,
-              0.8406999707221985,
+              0.7405999898910522,
+              0.8425999879837036,
               0.15209999680519104,
               0.07959999889135361
             ],
@@ -5578,6 +5578,18 @@
   ],
   "notes": [
     {
+      "text": "shop: card_bonus_amount (bonus pack amount label) = atlas-1_3 (111x61); atlas-1_3b is the smaller mini-pack amount.",
+      "seen": 1
+    },
+    {
+      "text": "eliminated: a cash box that is a black bar in the mockup must not use atlas-1_29 (green button); use a plain dark color box.",
+      "seen": 1
+    },
+    {
+      "text": "Screens whose mockup is a full game scene (eliminated, revive) cap the match score without a matching BG image; add one in BG's to lift it.",
+      "seen": 1
+    },
+    {
       "text": "Panel \"BuyPanelBG\" (512×492) was used on: BuyPanelRef.",
       "seen": 1
     },
@@ -5634,11 +5646,11 @@
       "seen": 1
     },
     {
-      "text": "Screen \"settinng\" (popup): 35 elements, matched its mockup 93%.",
+      "text": "Screen \"settinng\" (popup): 35 elements, matched its mockup 95%.",
       "seen": 1
     },
     {
-      "text": "Screen \"shop\" (screen): 50 elements, matched its mockup 96%.",
+      "text": "Screen \"shop\" (screen): 50 elements, matched its mockup 97%.",
       "seen": 1
     },
     {
