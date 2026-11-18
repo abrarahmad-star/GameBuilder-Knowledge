@@ -2,7 +2,7 @@
   "schema": 1,
   "project": "Tool Testing",
   "id": "tool-testing-6e7a",
-  "updated": "2026-11-18T12:41:33.0890114Z",
+  "updated": "2026-11-18T12:42:14.5784914Z",
   "uiBuilder": "0.15.0",
   "built": "",
   "projects": [],
@@ -2358,7 +2358,7 @@
         941
       ],
       "dim": 0,
-      "match": 0.7504168748855591,
+      "match": 0.7530695199966431,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2414,13 +2414,13 @@
           "id": "cash_box",
           "role": "image",
           "parent": "",
-          "sprite": "atlas-1_29",
-          "hash": "0000000000000000",
+          "sprite": "",
+          "hash": "",
           "text": "",
           "anim": "",
           "sound": "",
           "audio": "",
-          "color": "",
+          "color": "#0A0A12",
           "opens": "",
           "shows": "",
           "rect": [
@@ -4014,7 +4014,7 @@
         1080
       ],
       "dim": 0.30000001192092896,
-      "match": 0.8907744884490967,
+      "match": 0.8930736780166626,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -4176,10 +4176,10 @@
           "opens": "none",
           "shows": "",
           "rect": [
-            0.35830000042915344,
-            0.7221999764442444,
-            0.2312999963760376,
-            0.12129999697208405
+            0.38119998574256897,
+            0.7369999885559082,
+            0.2078000009059906,
+            0.10830000042915344
           ],
           "on": false,
           "sliced": false,
