@@ -1,1 +1,0 @@
-- Relay test: this folder can be deleted
