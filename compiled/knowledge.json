@@ -1,9 +1,25 @@
 {
   "schema": 1,
-  "built": "2026-11-17T12:54:00.776Z",
-  "projects": [],
-  "sprites": [],
+  "built": "2026-11-18T07:31:20.558Z",
+  "projects": [
+    "relay-test"
+  ],
+  "sprites": [
+    {
+      "hash": "test0001",
+      "w": 10,
+      "h": 10,
+      "name": "btn_test",
+      "role": "button",
+      "seen": 1
+    }
+  ],
   "panels": [],
   "screens": [],
-  "notes": []
+  "notes": [
+    {
+      "text": "Relay test: this folder can be deleted",
+      "seen": 1
+    }
+  ]
 }
