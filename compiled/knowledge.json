@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T12:41:03.014Z",
+  "built": "2026-11-18T12:41:49.333Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -34,7 +34,7 @@
       "w": 111,
       "h": 61,
       "name": null,
-      "role": null,
+      "role": "image",
       "seen": 1
     },
     {
@@ -4406,8 +4406,8 @@
             "id": "card_bonus_amount",
             "role": "image",
             "parent": "card_bonus",
-            "sprite": "",
-            "hash": "",
+            "sprite": "atlas-1_3",
+            "hash": "668b579c55445926",
             "text": "",
             "anim": "",
             "sound": "",
@@ -4418,7 +4418,7 @@
             "rect": [
               0.41609999537467957,
               0.36570000648498535,
-              0.0568000003695488,
+              0.05730000138282776,
               0.05559999868273735
             ],
             "on": false,
@@ -5602,43 +5602,43 @@
       "seen": 1
     },
     {
-      "text": "Screen \"BuyPanelRef\" (screen): 14 elements.",
+      "text": "Screen \"BuyPanelRef\" (screen): 14 elements, matched its mockup 90%.",
       "seen": 1
     },
     {
-      "text": "Screen \"eliminated\" (screen): 8 elements.",
+      "text": "Screen \"eliminated\" (screen): 8 elements, matched its mockup 75%.",
       "seen": 1
     },
     {
-      "text": "Screen \"env selc\" (screen): 18 elements.",
+      "text": "Screen \"env selc\" (screen): 18 elements, matched its mockup 95%.",
       "seen": 1
     },
     {
-      "text": "Screen \"hostage\" (screen): 7 elements.",
+      "text": "Screen \"hostage\" (screen): 7 elements, matched its mockup 91%.",
       "seen": 1
     },
     {
-      "text": "Screen \"hud\" (hud): 16 elements.",
+      "text": "Screen \"hud\" (hud): 16 elements, matched its mockup 93%.",
       "seen": 1
     },
     {
-      "text": "Screen \"no internet\" (popup): 6 elements.",
+      "text": "Screen \"no internet\" (popup): 6 elements, matched its mockup 97%.",
       "seen": 1
     },
     {
-      "text": "Screen \"privacy\" (popup): 8 elements.",
+      "text": "Screen \"privacy\" (popup): 8 elements, matched its mockup 96%.",
       "seen": 1
     },
     {
-      "text": "Screen \"revive\" (popup): 9 elements.",
+      "text": "Screen \"revive\" (popup): 9 elements, matched its mockup 89%.",
       "seen": 1
     },
     {
-      "text": "Screen \"settinng\" (popup): 35 elements.",
+      "text": "Screen \"settinng\" (popup): 35 elements, matched its mockup 93%.",
       "seen": 1
     },
     {
-      "text": "Screen \"shop\" (screen): 50 elements.",
+      "text": "Screen \"shop\" (screen): 50 elements, matched its mockup 96%.",
       "seen": 1
     },
     {
