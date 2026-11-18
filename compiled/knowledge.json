@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T09:18:05.537Z",
+  "built": "2026-11-18T09:35:16.926Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -916,7 +916,7 @@
       "w": 512,
       "h": 492,
       "file": "BuyPanelBG",
-      "screen": "BuyPanelRef, image (5)",
+      "screen": "BuyPanelRef",
       "seen": 1
     },
     {
@@ -956,7 +956,7 @@
       "w": 614,
       "h": 634,
       "file": "panel props",
-      "screen": "BuyPanelRef, image (5)",
+      "screen": "BuyPanelRef",
       "seen": 1
     },
     {
@@ -2131,260 +2131,6 @@
               0.8684999942779541,
               0.5885000228881836,
               0.04170000180602074
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "key": "image5",
-      "name": "image (5)",
-      "kind": "screen",
-      "seen": 1,
-      "template": {
-        "from": "tool-testing-6e7a",
-        "size": [
-          512,
-          288
-        ],
-        "dim": 0,
-        "elements": [
-          {
-            "id": "cash_box",
-            "role": "image",
-            "parent": "",
-            "sprite": "",
-            "hash": "",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.8945000171661377,
-              0.04170000180602074,
-              0.10159999877214432,
-              0.09030000120401382
-            ]
-          },
-          {
-            "id": "cash_icon",
-            "role": "image",
-            "parent": "",
-            "sprite": "atlas-1_48",
-            "hash": "20a818366d452a08",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.888700008392334,
-              0.045099999755620956,
-              0.04879999905824661,
-              0.07639999687671661
-            ]
-          },
-          {
-            "id": "cash_amount",
-            "role": "text",
-            "parent": "",
-            "sprite": "",
-            "hash": "",
-            "text": "0",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.9531000256538391,
-              0.05209999904036522,
-              0.02930000051856041,
-              0.0625
-            ]
-          },
-          {
-            "id": "card",
-            "role": "panel",
-            "parent": "",
-            "sprite": "panel props",
-            "hash": "0000000000018205",
-            "text": "",
-            "anim": "SlideLeft",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.6718999743461609,
-              0.2639000117778778,
-              0.32420000433921814,
-              0.5694000124931335
-            ]
-          },
-          {
-            "id": "card_title",
-            "role": "image",
-            "parent": "card",
-            "sprite": "atlas-2_15",
-            "hash": "0400101818101008",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.75,
-              0.3021000027656555,
-              0.1445000022649765,
-              0.05209999904036522
-            ]
-          },
-          {
-            "id": "card_glow",
-            "role": "image",
-            "parent": "card",
-            "sprite": "BuyPanelBG",
-            "hash": "140f0f0f0f0f0f16",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.7265999913215637,
-              0.3368000090122223,
-              0.21480000019073486,
-              0.3646000027656555
-            ]
-          },
-          {
-            "id": "card_item",
-            "role": "image",
-            "parent": "card",
-            "sprite": "props_9",
-            "hash": "50dc2c63f9693d0f",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.7577999830245972,
-              0.3993000090122223,
-              0.14650000631809235,
-              0.19099999964237213
-            ]
-          },
-          {
-            "id": "card_question",
-            "role": "text",
-            "parent": "card",
-            "sprite": "",
-            "hash": "",
-            "text": "Want to unlock it ?",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.7324000000953674,
-              0.645799994468689,
-              0.20509999990463257,
-              0.04859999939799309
-            ]
-          },
-          {
-            "id": "card_btn_free",
-            "role": "button",
-            "parent": "card",
-            "sprite": "atlas-2_49",
-            "hash": "0000000000000000",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.6776999831199646,
-              0.729200005531311,
-              0.14839999377727509,
-              0.09030000120401382
-            ]
-          },
-          {
-            "id": "card_btn_free_icon",
-            "role": "image",
-            "parent": "card_btn_free",
-            "sprite": "atlas-2_21",
-            "hash": "c001212121210182",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.6913999915122986,
-              0.7465000152587891,
-              0.03519999980926514,
-              0.04859999939799309
-            ]
-          },
-          {
-            "id": "card_btn_free_label",
-            "role": "text",
-            "parent": "card_btn_free",
-            "sprite": "",
-            "hash": "",
-            "text": "FREE",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.7383000254631042,
-              0.7396000027656555,
-              0.0625,
-              0.05209999904036522
-            ]
-          },
-          {
-            "id": "card_btn_buy",
-            "role": "button",
-            "parent": "card",
-            "sprite": "atlas-2_50",
-            "hash": "0000000000000000",
-            "text": "",
-            "anim": "Pulse",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.8339999914169312,
-              0.729200005531311,
-              0.14839999377727509,
-              0.09030000120401382
-            ]
-          },
-          {
-            "id": "card_btn_buy_icon",
-            "role": "image",
-            "parent": "card_btn_buy",
-            "sprite": "atlas-2_19",
-            "hash": "206898587d492a08",
-            "text": "",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.8438000082969666,
-              0.7361000180244446,
-              0.0430000014603138,
-              0.05900000035762787
-            ]
-          },
-          {
-            "id": "card_btn_buy_price",
-            "role": "text",
-            "parent": "card_btn_buy",
-            "sprite": "",
-            "hash": "",
-            "text": "3260",
-            "anim": "",
-            "sound": "",
-            "audio": "",
-            "rect": [
-              0.888700008392334,
-              0.7396000027656555,
-              0.07810000330209732,
-              0.05209999904036522
             ]
           }
         ]
@@ -4557,7 +4303,7 @@
       "seen": 1
     },
     {
-      "text": "Panel \"BuyPanelBG\" (512×492) was used on: BuyPanelRef, image (5).",
+      "text": "Panel \"BuyPanelBG\" (512×492) was used on: BuyPanelRef.",
       "seen": 1
     },
     {
@@ -4565,7 +4311,7 @@
       "seen": 1
     },
     {
-      "text": "Panel \"panel props\" (614×634) was used on: BuyPanelRef, image (5).",
+      "text": "Panel \"panel props\" (614×634) was used on: BuyPanelRef.",
       "seen": 1
     },
     {
@@ -4598,10 +4344,6 @@
     },
     {
       "text": "Screen \"hud\" (hud): 16 elements, matched its mockup 93%.",
-      "seen": 1
-    },
-    {
-      "text": "Screen \"image (5)\" (screen): 14 elements, matched its mockup 92%.",
       "seen": 1
     },
     {
