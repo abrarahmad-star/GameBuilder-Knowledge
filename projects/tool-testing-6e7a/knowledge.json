@@ -2,7 +2,7 @@
   "schema": 1,
   "project": "Tool Testing",
   "id": "tool-testing-6e7a",
-  "updated": "2026-11-18T12:40:43.5685610Z",
+  "updated": "2026-11-18T12:41:33.0890114Z",
   "uiBuilder": "0.15.0",
   "built": "",
   "projects": [],
@@ -55,7 +55,7 @@
     {
       "hash": "668b579c55445926",
       "name": "atlas-1_3",
-      "role": "",
+      "role": "image",
       "atlas": "atlas-1",
       "w": 111,
       "h": 61,
@@ -1998,7 +1998,7 @@
         288
       ],
       "dim": 0,
-      "match": -1,
+      "match": 0.9026681780815125,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2358,7 +2358,7 @@
         941
       ],
       "dim": 0,
-      "match": -1,
+      "match": 0.7504168748855591,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -2574,7 +2574,7 @@
         1080
       ],
       "dim": 0,
-      "match": -1,
+      "match": 0.9486051201820374,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3030,7 +3030,7 @@
         1080
       ],
       "dim": 0,
-      "match": -1,
+      "match": 0.9075347185134888,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3222,7 +3222,7 @@
         1080
       ],
       "dim": 0,
-      "match": -1,
+      "match": 0.9280657768249512,
       "showOnStart": true,
       "seen": 0,
       "elements": [
@@ -3630,7 +3630,7 @@
         1080
       ],
       "dim": 0.6000000238418579,
-      "match": -1,
+      "match": 0.970369815826416,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -3798,7 +3798,7 @@
         1080
       ],
       "dim": 0.6000000238418579,
-      "match": -1,
+      "match": 0.9561588764190674,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -4014,7 +4014,7 @@
         1080
       ],
       "dim": 0.30000001192092896,
-      "match": -1,
+      "match": 0.8907744884490967,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -4254,7 +4254,7 @@
         1080
       ],
       "dim": 0.6000000238418579,
-      "match": -1,
+      "match": 0.9256044030189514,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -5118,7 +5118,7 @@
         1080
       ],
       "dim": 0,
-      "match": -1,
+      "match": 0.9608557820320129,
       "showOnStart": false,
       "seen": 0,
       "elements": [
@@ -5462,8 +5462,8 @@
           "id": "card_bonus_amount",
           "role": "image",
           "parent": "card_bonus",
-          "sprite": "",
-          "hash": "",
+          "sprite": "atlas-1_3",
+          "hash": "668b579c55445926",
           "text": "",
           "anim": "",
           "sound": "",
@@ -5474,7 +5474,7 @@
           "rect": [
             0.41609999537467957,
             0.36570000648498535,
-            0.0568000003695488,
+            0.05730000138282776,
             0.05559999868273735
           ],
           "on": false,
