@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "built": "2026-11-18T10:52:09.680Z",
+  "built": "2026-11-18T11:03:00.871Z",
   "projects": [
     "tool-testing-6e7a"
   ],
@@ -30,8 +30,8 @@
       "seen": 1
     },
     {
-      "hash": "20505eb5a81558a4",
-      "w": 228,
+      "hash": "668947ac45665b26",
+      "w": 110,
       "h": 61,
       "name": null,
       "role": null,
@@ -118,9 +118,9 @@
       "seen": 1
     },
     {
-      "hash": "04aa52c840525200",
-      "w": 363,
-      "h": 55,
+      "hash": "0024616248a82b00",
+      "w": 125,
+      "h": 50,
       "name": null,
       "role": null,
       "seen": 1
@@ -270,8 +270,8 @@
       "seen": 1
     },
     {
-      "hash": "4b886a61aaaba908",
-      "w": 177,
+      "hash": "12319a1a2604a580",
+      "w": 83,
       "h": 57,
       "name": null,
       "role": null,
@@ -286,9 +286,9 @@
       "seen": 1
     },
     {
-      "hash": "804c1c18191c4804",
-      "w": 256,
-      "h": 45,
+      "hash": "1285404848c0a552",
+      "w": 123,
+      "h": 43,
       "name": null,
       "role": null,
       "seen": 1
@@ -310,41 +310,25 @@
       "seen": 1
     },
     {
-      "hash": "80512409090d9609",
-      "w": 339,
-      "h": 47,
+      "hash": "2a95454c4c44956a",
+      "w": 105,
+      "h": 43,
       "name": null,
       "role": null,
       "seen": 1
     },
     {
-      "hash": "0081c16363232140",
-      "w": 100,
-      "h": 38,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "4804b51919595529",
-      "w": 99,
+      "hash": "8d08484a47444402",
+      "w": 198,
       "h": 39,
       "name": null,
       "role": null,
       "seen": 1
     },
     {
-      "hash": "019a800804020409",
-      "w": 182,
-      "h": 114,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "a249454444464592",
-      "w": 130,
-      "h": 61,
+      "hash": "228d405a90505900",
+      "w": 177,
+      "h": 68,
       "name": null,
       "role": null,
       "seen": 1
@@ -355,14 +339,6 @@
       "h": 69,
       "name": null,
       "role": "image",
-      "seen": 1
-    },
-    {
-      "hash": "5201a12425272592",
-      "w": 91,
-      "h": 46,
-      "name": null,
-      "role": null,
       "seen": 1
     },
     {
@@ -403,6 +379,70 @@
       "h": 88,
       "name": null,
       "role": "button",
+      "seen": 1
+    },
+    {
+      "hash": "4a9535caca28352a",
+      "w": 118,
+      "h": 48,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "8070514a50505980",
+      "w": 116,
+      "h": 50,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "80b059686051a000",
+      "w": 122,
+      "h": 55,
+      "name": "atlas-1_14bb",
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "52ad006844848150",
+      "w": 128,
+      "h": 43,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "6a95454c4844952a",
+      "w": 114,
+      "h": 43,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "2a95454e4a44856a",
+      "w": 106,
+      "h": 43,
+      "name": "atlas-1_40bb",
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "153302020c089383",
+      "w": 84,
+      "h": 57,
+      "name": null,
+      "role": null,
+      "seen": 1
+    },
+    {
+      "hash": "aa1004a824295428",
+      "w": 275,
+      "h": 46,
+      "name": null,
+      "role": null,
       "seen": 1
     },
     {
@@ -526,16 +566,8 @@
       "seen": 1
     },
     {
-      "hash": "4200851511118340",
-      "w": 126,
-      "h": 56,
-      "name": null,
-      "role": null,
-      "seen": 1
-    },
-    {
-      "hash": "1300686969690904",
-      "w": 140,
+      "hash": "0400101818101008",
+      "w": 274,
       "h": 56,
       "name": null,
       "role": null,
@@ -1028,7 +1060,7 @@
             "audio": "",
             "color": "",
             "opens": "",
-            "shows": "",
+            "shows": "Coins",
             "rect": [
               0.9531000256538391,
               0.05209999904036522,
@@ -1430,7 +1462,7 @@
             "audio": "",
             "color": "",
             "opens": "",
-            "shows": "",
+            "shows": "Coins",
             "rect": [
               0.8373000025749207,
               0.03400000184774399,
@@ -1640,7 +1672,7 @@
             "audio": "",
             "color": "",
             "opens": "",
-            "shows": "",
+            "shows": "Coins",
             "rect": [
               0.9089000225067139,
               0.05739999935030937,
@@ -2323,7 +2355,7 @@
             "sound": "",
             "audio": "",
             "color": "",
-            "opens": "",
+            "opens": "shop",
             "shows": "",
             "rect": [
               0.84170001745224,
@@ -2348,7 +2380,7 @@
             "audio": "",
             "color": "",
             "opens": "",
-            "shows": "",
+            "shows": "Coins",
             "rect": [
               0.8880000114440918,
               0.06300000101327896,
@@ -4142,7 +4174,7 @@
             "audio": "",
             "color": "",
             "opens": "",
-            "shows": "",
+            "shows": "Coins",
             "rect": [
               0.9089000225067139,
               0.05739999935030937,

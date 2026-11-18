@@ -45,4 +45,4 @@ Built from 1 project(s): tool-testing-6e7a.
 - port (717×594) → unlock env
 - settong popup (1387×819) → settinng
 
-Sprites known by fingerprint: 109 (0 with a name).
+Sprites known by fingerprint: 113 (2 with a name).
